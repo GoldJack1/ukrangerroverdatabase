@@ -34,7 +34,7 @@
       "family_friends": "£--.--"
     },
     { "year": 2023, 
-      "adult": "£28.40" 
+      "adult": "£28.40",
       "child": "£--.--",
       "family_friends_child": "£--.--",
       "16-17": "£--.--",
@@ -48,7 +48,7 @@
     },
     { 
       "year": 2022, 
-      "adult": "£26.80"
+      "adult": "£26.80",
       "child": "£--.--",
       "family_friends_child": "£--.--",
       "16-17": "£--.--",
@@ -61,7 +61,7 @@
       "family_friends": "£--.--"
     },
     { "year": 2021, 
-      "adult": "£25.20" 
+      "adult": "£25.20",
       "child": "£--.--",
       "family_friends_child": "£--.--",
       "16-17": "£--.--",
@@ -74,7 +74,7 @@
       "family_friends": "£--.--"
     },
     { "year": 2020, 
-      "adult": "£25.20" 
+      "adult": "£25.20",
       "child": "£--.--",
       "family_friends_child": "£--.--",
       "16-17": "£--.--",
@@ -87,7 +87,7 @@
       "family_friends": "£--.--"
     },
     { "year": 2019, 
-      "adult": "£24.50" 
+      "adult": "£24.50",
       "child": "£--.--",
       "family_friends_child": "£--.--",
       "16-17": "£--.--",
@@ -100,7 +100,7 @@
       "family_friends": "£--.--"
     },
     { "year": 2018, 
-      "adult": "£23.80" 
+      "adult": "£23.80",
       "child": "£--.--",
       "family_friends_child": "£--.--",
       "16-17": "£--.--",
@@ -113,7 +113,7 @@
       "family_friends": "£--.--"
     },
     { "year": 2014, 
-      "adult": "£22.00" 
+      "adult": "£22.00",
       "child": "£--.--",
       "family_friends_child": "£--.--",
       "16-17": "£--.--",
