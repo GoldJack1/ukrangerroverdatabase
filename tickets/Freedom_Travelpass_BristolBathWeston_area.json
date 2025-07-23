@@ -1,0 +1,28 @@
+{
+  "name": "Freedom Travelpass (Bristol/Bath/Weston area)",
+  "url": "http://www.railrover.org/pages/freedom-travelpass.html",
+  "description": "FREEDOM TRAVELPASS (Bristol area) Unlimited rail travel and most bus services in Bristol, Bath, North Somerset, North East Somerset and South Gloucestershire for either 1 day, 7 days or 1 month. \n      The ticket is based on four zones radiating out from Bristol and for rail it is bordered by Severn Beach, Pilning, Yate, Freshford and Weston-super-Mare with other locations served by bus. The ticket is also accepted on the following bus services: ABUS, Faresaver Buses*, First West of England*, South Gloucestershire Council (and supported services), Stagecoach Southwest* and Stagecoach West*. * tickets can be purchased from these operators. Day Freedom Travelpasses can be purchased from First West of England bus drivers. A Photocard is required for the monthly Travelpass. There are no child or railcard discounts.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions New fares from 1st June 2025 Examples, see the GWR website for all fares One day Bristol zone: \u00a37.50 All 4 zones: \u00a322.00 7 days Bristol zone: \u00a333.00 All 4 zones: \u00a390.00 One month Bristol zone: \u00a3120.00 All 4 zones: \u00a3345.00 time restrictions Valid anytime train operating companies CrossCountry, Great Western Railway, South Western Railway purchasing Online: X Station ticket office: \u2714 Station TVM: X Train conductor (1 & 7 day) : \u2714 * Bus driver (1 day) : \u2714 Buy on the day: \u2714 Buy in advance: \u2714 * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Avonmouth Bath Spa",
+    "Bedminster",
+    "Bristol Parkway",
+    "Bristol Temple Meads Clifton Down Filton Abbey Wood",
+    "Freshford Keynsham Lawrence Hill Montpelier Nailsea & Blackwell Oldfield Park Parson Street",
+    "Patchway",
+    "Pilning",
+    "Portway Park & Ride Sea Mills",
+    "Severn Beach",
+    "Shirehampton",
+    "St Andrews Road",
+    "Stapleton Road Weston Milton",
+    "Weston-super-Mare",
+    "Worle Yate",
+    "Yatton"
+  ],
+  "route_map_images": [
+    "ticket_maps/Freedom_Travelpass_BristolBathWeston_area_freedom_travelpass.gif"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Oxfordshire Day Ranger (Banbury/Moreton in M-Reading)",
+  "url": "http://www.railrover.org/pages/oxfordshire-day-ranger.html",
+  "description": "OXFORDSHIRE DAY RANGER Unlimited travel for one day with weekday time restrictions between Banbury, Oxford, Didcot and Reading plus the line from Oxford to Moreton-in-Marsh.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day ranger adult: \u00a322.00 child (5-15): \u00a311.00 16-17 saver: \u00a311.00 railcards \u2bc6 16 26 SE DI 2T FF H V N : \u00a314.65 FF H V child fare: \u00a34.40 N child fare: \u00a35.50 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together FF = Family & Friends H = HM Forces V = Veterans N = Network Card Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a321.00 2023 - \u00a320.00 2022 - \u00a319.00 2021 - \u00a318.00 2020 - \u00a318.00 2019 - \u00a317.50 2018 - \u00a317.10 2014 - \u00a315.50 2011 - \u00a313.00 time restrictions Mon to Fri: valid from 09:30 or from when the off-peak day return becomes valid if earlier but 2T railcard not valid until 09:30 and NW railcard not valid until 10:00 No restrictions at weekends or bank holidays train operating companies Chiltern Railways, CrossCountry, Great Western Railway purchasing Online : \u2714 Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Appleford",
+    "Ascott-under-Wychwood Banbury Charlbury",
+    "Cholsey",
+    "Combe",
+    "Culham Didcot Parkway Finstock Goring & Streatley Hanborough",
+    "Heyford Kingham",
+    "Kings Sutton Moreton-in-Marsh Oxford Pangbourne Radley",
+    "Reading Shipton Tackley",
+    "Tilehurst"
+  ],
+  "route_map_images": [
+    "ticket_maps/Oxfordshire_Day_Ranger_BanburyMoreton_in_M-Reading_oxfordshire_day_ranger.gif"
+  ]
+}

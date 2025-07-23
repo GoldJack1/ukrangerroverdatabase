@@ -1,0 +1,29 @@
+{
+  "name": "North of England Rover (Liverpool-Leeds-Hull 4 in 8 days)",
+  "url": "http://www.railrover.org/pages/north-of-england-rover.html",
+  "description": "NORTH OF ENGLAND ROVER Unlimited travel with weekday time restrictions on \"TransPennine Express\" services for any 4 days in an 8 day period. The area extends from Liverpool in the west to Hull in the east via Manchester and Leeds and also includes Manchester Airport but is only valid on TPE services.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions Fares correct 1st April 2025 Any 4 days in 8 adult: \u00a379.00 child (5-15): \u00a339.50 16-17 saver: \u00a339.50 railcards \u2bc6 16 26 SE DI 2T FF H V : \u00a352.15 FF H V child fare: \u00a315.00 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together FF = Family & Friends H = HM Forces V = Veterans time restrictions Mon to Fri: valid from 09:30 No restrictions at weekends or bank holidays route restrictions Not valid via Bradford Not valid via Sheffield Not valid via Todmorden train operating companies TransPennine Express purchasing ONLINE : \u2714 Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London Kings Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Batley",
+    "Brough Cottingley Deighton",
+    "Dewsbury Garforth",
+    "Greenfield Huddersfield",
+    "Hull Lea Green",
+    "Leeds",
+    "Liverpool Lime Street Manchester Airport",
+    "Manchester Oxford Road",
+    "Manchester Piccadilly",
+    "Manchester Victoria",
+    "Marsden",
+    "Mirfield",
+    "Morley",
+    "Mossley Newton-le-Willows Ravensthorpe Selby",
+    "Slaithwaite",
+    "Stalybridge"
+  ],
+  "route_map_images": [
+    "ticket_maps/North_of_England_Rover_Liverpool-Leeds-Hull_4_in_8_days_north_of_england_rover.gif"
+  ]
+}

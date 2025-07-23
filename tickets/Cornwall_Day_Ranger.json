@@ -1,0 +1,44 @@
+{
+  "name": "Cornwall Day Ranger",
+  "url": "http://www.railrover.org/pages/cornwall-ranger.html",
+  "description": "CORNWALL RANGER Unlimited travel with weekday time restrictions for one day throughout Cornwall as well as to/from Plymouth in Devon and includes the four branch lines in Cornwall, \n      Looe, Newquay, Falmouth and St.Ives plus the Gunnislake branch in Devon. You can visit the heritage railways at the Bodmin & Wenford Railway at Bodmin Parkway and the Helston Railway by alighting at either Camborne, Hayle or St.Erth.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day ranger adult: \u00a317.00 child (5-15): \u00a38.50 16-17 saver: \u00a38.50 family: \u00a332.00 railcards \u2bc6 16 26 SE DI 2T FF H V : \u00a311.30 DC : \u00a311.30 FF HM V child fare: \u00a38.50 DC child fare: \u00a33.40 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together FF = Family & Friends HM = HM Forces V = Veterans DC = Devon & Cornwall Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a316.00 2023 - \u00a315.00 2022 - \u00a314.00 2021 - \u00a313.00 2020 - \u00a313.00 2019 - \u00a312.50 time restrictions Mon to Fri: valid from 09:00 but 2T railcard not valid until 09:30 No restrictions at weekends or bank holidays Also valid on the following : 08:17 Plymouth\u00e2\u0080\u0093Penzance [check with GWR] 08:24 Plymouth-Gunnislake 08:30 Liskeard-Looe train operating companies CrossCountry, Great Western Railway purchasing Online : \u2714 Train conductor: \u2714 * Bus driver: \u2714 Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Bere Alston",
+    "Bere Ferrers",
+    "Bodmin Parkway",
+    "Bugle Calstock",
+    "Camborne",
+    "Carbis Bay",
+    "Causeland",
+    "Coombe Junction Halt Devonport",
+    "Devonport Dockyard Falmouth Docks",
+    "Falmouth Town Gunnislake Hayle Keyham Lelant",
+    "Lelant Saltings",
+    "Liskeard",
+    "Looe",
+    "Lostwithiel",
+    "Luxulyan Menheniot Newquay",
+    "Par",
+    "Penmere",
+    "Penryn",
+    "Penzance",
+    "Perranwell",
+    "Plymouth Quintrell Downs",
+    "Roche Reduth Saltash",
+    "Sandplace",
+    "St Austell",
+    "St Budeaux Ferry Rd",
+    "St Budeaux Victoria Rd",
+    "St Columb Rd",
+    "St Erth",
+    "St Germans",
+    "St Ives",
+    "St Keyne Wishing Well Halt Truro"
+  ],
+  "route_map_images": [
+    "ticket_maps/Cornwall_Day_Ranger_cornwall_ranger.gif"
+  ]
+}

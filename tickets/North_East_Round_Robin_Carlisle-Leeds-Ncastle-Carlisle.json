@@ -1,0 +1,49 @@
+{
+  "name": "North East Round Robin (Carlisle-Leeds-N'castle-Carlisle)",
+  "url": "http://www.railrover.org/pages/north-east-round-robin.html",
+  "description": "NORTH EAST ROUND ROBIN Unlimited travel for one day with weekday time restrictions from anywhere and in any direction on the circular route between Carlisle-Newcastle-York-Leeds-Carlisle and includes the \n      Tyne Valley and the Settle & Carlisle lines plus the York-Harrogate-Leeds line.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day ranger adult: \u00a365.20 child (5-15): \u00a332.60 16-17 saver: \u00a332.60 railcards \u2bc6 16 26 SE DI 2T FF H V : \u00a343.40 FF H V child fare: \u00a312.35 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together FF = Family & Friends H = HM Forces V = Veterans Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a362.30 2023 - \u00a359.30 2022 - \u00a356.00 2021 - \u00a352.70 2020 - \u00a352.70 2019 - \u00a351.20 2018 - \u00a349.70 2014 - \u00a346.00 2011 - \u00a340.00 time restrictions Mon to Fri: valid from 09:00 but 2T railcard not valid until 09:30 No restrictions at weekends or bank holidays route restrictions Not valid on Grand Central train operating companies CrossCountry, London North Eastern Railway, Northern, TransPennine Express purchasing Online: X Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Apperley Bridge",
+    "Appleby",
+    "Armathwaite Bardon Mill",
+    "Bingley",
+    "Blaydon",
+    "Brampton Carlisle",
+    "Chester-le-Street",
+    "Church Fenton",
+    "Cononley",
+    "Corbridge",
+    "Crossflatts",
+    "Cross Gates Darlington",
+    "Dent",
+    "Dunston",
+    "Durham East Garforth Garforth",
+    "Gargrave",
+    "Garsdale Haltwhistle",
+    "Haydon Bridge",
+    "Hellifield",
+    "Hexham",
+    "Horton-in-Ribblesdale Keighley",
+    "Kirkby Stephen",
+    "Kirkstall Forge Langwathby",
+    "Lazonby & Kirkoswald",
+    "Leeds",
+    "Long Preston",
+    "Low Moor MetroCentre",
+    "Micklefield Newcastle",
+    "Northallerton Prudhoe Ribblehead",
+    "Riding Mill Saltaire",
+    "Settle",
+    "Shipley",
+    "Skipton",
+    "Steeton & Silsden",
+    "Stocksfield Thirsk Ulleskelf Wetheral",
+    "Wylam York"
+  ],
+  "route_map_images": [
+    "ticket_maps/North_East_Round_Robin_Carlisle-Leeds-Ncastle-Carlisle_north_east_round_robin.gif"
+  ]
+}

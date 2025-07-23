@@ -1,0 +1,19 @@
+{
+  "name": "Great West Way Discoverer West Pass (1 or 7 days)",
+  "url": "http://www.railrover.org/pages/great-west-way-discoverer-west.html",
+  "description": "GREAT WEST WAY DISCOVERER WEST PASS Unlimited travel with weekday time restrictions for either 1 day or 7 consecutive days centred around the western part of the \n      Great West Way. Bus travel in the area is also included. The Great West Way\u00ae is a 125-mile touring route between London, \n      Bath and Bristol based on ancient routes. The Great West Way Discoverer West Pass allows travel on the following rail routes: Bristol Temple Meads to Swindon via Chippenham; \n      Bristol Temple Meads to Salisbury via Westbury; Chippenham to Westbury via Melksham; Westbury to Frome and Westbury to Pewsey. The following bus routes are also included: X5 Salisbury, Amersbury, Pewsey, Marlborough, Swindon \u00e2\u0080\u0093 Salisbury Reds service. 49 Trans-Wilts-Express, Swindon, Trowbridge \u00e2\u0080\u0093 Stagecoach West service. 55 Swindon, Royal Wootton Bassett, Chippenham - Stagecoach West GOLD service. S6 Swindon, Faringdon, Oxford - Stagecoach West GOLD service. 80/81 Swindon \u00e2\u0080\u0093 Malborough \u00e2\u0080\u0093 Stagecoach West service. All First West of England services except the Bristol Flyer services.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day adult: \u00a330.50 child (5-15): \u00a315.25 16-17 saver: \u00a315.25 railcards \u2bc6 16 26 SE DI 2T FF H V : \u00a327.45 FF H V child fare: \u00a315.25 7 consecutive days adult: \u00a357.50 child (5-15): \u00a343.75 16-17 saver: \u00a343.75 railcards \u2bc6 16 26 SE DI 2T FF H V : \u00a378.75 FF H V child fare: \u00a343.75 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together FF = Family & Friends H = HM Forces V = Veterans Previous fares \u2bc8 Previous fares (adult): One day: 2024 - \u00a329.00 2023 - \u00a327.50 2022 - \u00a325.50 2021 - \u00a324.00 2020 - \u00a324.00 2019 - \u00a324.00 7 days: 2024 - \u00a383.50 2023 - \u00a379.00 2022 - \u00a373.50 2021 - \u00a369.00 2020 - \u00a369.00 2019 - \u00a369.00 time restrictions Mon to Fri: valid from 09:20 until midnight No restrictions at weekends or bank holidays train operating companies Great Western Railway, South Western Railway purchasing Online at GWR : \u2714 Online at SWR : \u2714 Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Avoncliff Bath Spa",
+    "Bradford-on-Avon",
+    "Bristol Temple Meads Chippenham Dilton Marsh Freshford",
+    "Frome Keynsham Melksham Oldfield Park Pewsey Salisbury",
+    "Swindon Trowbridge Warminster",
+    "Westbury"
+  ],
+  "route_map_images": [
+    "ticket_maps/Great_West_Way_Discoverer_West_Pass_1_or_7_days_great_west_way_west.gif"
+  ]
+}

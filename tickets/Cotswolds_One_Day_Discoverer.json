@@ -1,0 +1,22 @@
+{
+  "name": "Cotswolds One Day Discoverer",
+  "url": "http://www.railrover.org/pages/cotswolds-discoverer.html",
+  "description": "COTSWOLDS DISCOVERER Unlimited travel for one day with weekday time restrictions between Moreton-in-Marsh and Oxford; between Ashchurch for Tewkesbury and Yate; and between \n      Gloucester and Swindon via Stroud - these lines are obviously not all connected. The ticket is also valid and can be bought from \"Johnson\u00e2\u0080\u0099s Excelbus\" and \"Stagecoach\" buses within the Cotswolds Area of Outstanding Natural Beauty which connects \n      the two separate rail lines. The area extends as far north as Stratford-upon-Avon but only by bus.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions New fares from 8th June 2025 One day ranger adult: \u00a315.00 child (5-15): \u00a37.50 16-17 saver: \u00a37.50 railcards \u2bc6 16 26 SE DI 2T H V : \u00a310.00 H child fare: \u00a33.75 Railcards \u2bc8 Railcards: 16 = 16 to 25 26 = 26 to 30 SE = Senior DI = Disabled 2T = Two Together H = HM Forces V = Veterans Previous fares \u2bc8 2024 - \u00a313.00Previous fares (adult): 2023 - \u00a313.00 2022 - \u00a313.00 2021 - \u00a310.50 2020 - \u00a310.50 2019 - \u00a310.60 2018 - \u00a310.00 2014 - \u00a310.00 time restrictions Mon to Fri: valid from 08:50 but 2T railcard not valid until 09:30 No restrictions at weekends and bank holidays or on buses route restrictions Not valid Yate to Swindon via Bristol Parkway train operating companies CrossCountry, Great Western Railway, Transport for Wales purchasing Online : \u2714 Train conductor: \u2714 * Bus driver: \u2714 Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London Kings Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Ascott-under-Wychwood",
+    "Ashchurch for Tewkesbury Cam & Dursley",
+    "Charlbury",
+    "Cheltenham Spa",
+    "Combe Finstock Gloucester Hanborough Kemble",
+    "Kingham Moreton-in-Marsh Oxford Shipton",
+    "Stonehouse",
+    "Stroud",
+    "Swindon Yate"
+  ],
+  "route_map_images": [
+    "ticket_maps/Cotswolds_One_Day_Discoverer_cotswold_discoverer.gif"
+  ]
+}

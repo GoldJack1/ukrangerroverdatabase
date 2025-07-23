@@ -1,0 +1,17 @@
+{
+  "name": "Bittern Line Day Ranger (Norwich-Cromer/Sheringham)",
+  "url": "http://www.railrover.org/pages/bittern-line-ranger.html",
+  "description": "BITTERN LINE RANGER Unlimited travel with weekday time restrictions for one day between the city of Norwich and the coastal towns of Sheringham and Cromer. \n      It is also valid on Coasthopper and Lynx Coastliner bus services for a \u00a33 supplement or \u00a35 for a family and tickets are valid all day. The heritage North Norfolk Railway is located at Sheringham which is just a minute's walk from the main station.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day ranger adult: \u00a313.50 child (5-15): \u00a36.75 16-17 saver: \u00a36.75 family*: \u00a327.00 senior#: \u00a39.00 railcards \u2bc6 16 26 SE DI 2T FF V : \u00a39.00 DI FF child fare: \u00a32.00 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together FF = Family & Friends V = Veterans *Family tickets are for up to two adults and up to two children #Senior tickets apply to anyone over the age of 60 and accompanied children travel for \u00a32.00 Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a312.90 2023 - \u00a312.00 2022 - \u00a311.50 2021 - \u00a311.50 2020 - \u00a311.50 2019 - \u00a311.00 2018 - \u00a39.00 2014 - \u00a39.00 2011 - \u00a37.80 time restrictions Mon to Fri: valid from 08:15 No restrictions at weekends or bank holidays train operating companies Greater Anglia purchasing Online: X Train conductor: \u2714 * Bus driver: X Station ticket office: \u2714 Ticket Vending Machine (TVM): i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Cromer Gunton Hoveton & Wroxham North Walsham",
+    "Norwich Roughton Road Salhouse",
+    "Sheringham West Runton",
+    "Worstead"
+  ],
+  "route_map_images": [
+    "ticket_maps/Bittern_Line_Day_Ranger_Norwich-CromerSheringham_bittern_line_ranger.gif"
+  ]
+}

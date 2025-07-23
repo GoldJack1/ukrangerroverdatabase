@@ -1,0 +1,16 @@
+{
+  "name": "St.Ives Bay Line Ranger (St Ives branch)",
+  "url": "http://www.railrover.org/pages/st-ives-bay-line-ranger.html",
+  "description": "ST.IVES BAY LINE DAY RANGER Unlimited travel for one day on the St. Ives branch between St. Erth and St. Ives in Cornwall.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions Fares correct 2nd March 2025 One day ranger adult: \u00a34.20 child (5-15): \u00a32.10 16-17 saver: \u00a32.10 family*: \u00a310.50 group#: \u00a38.40 railcards \u2bc6 16 26 SE DI 2T FF H DC : \u00a32.80 FF H child fare: 85p DC child fare: \u00a32.00 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together FF = Family & Friends H = HM Forces DC = Devon & Cornwall *Family tickets are for up to 2 adults and up to 3 children. #Group tickets are for three or four adults travelling together Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a34.00 2023 - \u00a34.00 2022 - \u00a34.00 2021 - \u00a34.00 2020 - \u00a34.00 2019 - \u00a34.00 2018 - \u00a34.00 2014 - \u00a34.00 2011 - \u00a34.00 time restrictions Valid anytime but 2T railcard not valid until 09:30 train operating companies Great Western Railway purchasing Online : \u2714 Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London Kings Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Carbis Bay Lelant",
+    "Lelant Saltings St.Erth",
+    "St.Ives"
+  ],
+  "route_map_images": [
+    "ticket_maps/StIves_Bay_Line_Ranger_St_Ives_branch_st_ives_bay_line_ranger.gif"
+  ]
+}

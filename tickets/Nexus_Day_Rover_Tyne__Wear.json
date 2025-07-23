@@ -1,0 +1,20 @@
+{
+  "name": "Nexus Day Rover (Tyne & Wear)",
+  "url": "http://www.railrover.org/pages/nexus-day-rover.html",
+  "description": "NEXUS DAY ROVER Unlimited travel for one day throughout the whole of Tyne & Wear on Metro trains, buses and on Northern services between Blaydon, Newcastle and Sunderland and the \n      Shields Ferry. Other tickets are available for travel throughout Tyne & Wear see their website for details",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions Fares correct 8th June 2025 One day rover adult: \u00a36.80 child (under 22): \u00a33.00 family#: \u00a318.80 railcards: no #Family tickets are for 1 or 2 Adults and must include a child with a maximum of 3 Children Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a36.00 2023 - \u00a39.10 2022 - \u00a37.80 2021 - \u00a37.80 2020 - \u00a37.80 2019 - \u00a37.80 2018 - \u00a37.50 2014 - \u00a36.90 time restrictions Valid anytime train operating companies Nexus, Northern purchasing Online: X Station ticket office (Nexus area) : \u2714 Metro Ticket Machine: \u2714 Train conductor: X Bus driver: \u2714 Apps: \u2714"
+  },
+  "stations": [
+    "Blaydon",
+    "Dunston",
+    "Heworth",
+    "MetroCentre",
+    "Newcastle",
+    "Sunderland",
+    "All Metro stations"
+  ],
+  "route_map_images": [
+    "ticket_maps/Nexus_Day_Rover_Tyne__Wear_nexus_day_rover.gif"
+  ]
+}

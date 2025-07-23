@@ -1,0 +1,47 @@
+{
+  "name": "Lincolnshire Day Ranger",
+  "url": "http://www.railrover.org/pages/lincolnshire-day-ranger.html",
+  "description": "LINCOLNSHIRE DAY RANGER Unlimited travel for one day with weekday time restrictions extending from Doncaster in the north to Peterborough and Stamford in the south and from Nottingham in the \n      west to the east coast towns of Cleethorpes and Skegness and includes Grantham and Lincoln. Note that the Lincolnshire Day Ranger is NOT valid on Saturdays in July & August and is not valid between Doncaster and Grantham nor between Grantham and Peterborough \n      on LNER services.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions New fares 8th June 2025 One day ranger adult: \u00a338.30 child (5-15): \u00a319.15 16-17 saver: \u00a319.15 railcards \u2bc6 16 26 SE DI 2T FF H V : \u00a325.50 FF H V child fare: \u00a37.30 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together FF = Family & Friends H = HM Forces V = Veterans Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a336.00 2023 - \u00a334.90 2022 - \u00a333.00 2021 - \u00a331.00 2020 - \u00a331.00 2019 - \u00a330.20 2018 - \u00a329.30 2014 - \u00a326.00 2013 - \u00a324.90 time restrictions Mon to Fri: valid from 09:00 but 2T railcard not valid until 09:30 No restrictions at weekends or public holidays Not valid Saturdays in July & August route restrictions Not valid to Barton on Humber or Gainsborough Central. Not valid Doncaster to Nottingham via Sheffield. Not valid Doncaster to Cleethorpes direct. Not valid Doncaster to Grantham direct. Not valid Grantham to Peterborough on LNER services train operating companies CrossCountry, East Midlands Railway, Northern, TransPennine Express purchasing Online: X Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands Train conductor: \u2714 * Buy on the day: \u2714 Buy in advance: \u2714 * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Ancaster",
+    "Aslockton Barnetby",
+    "Bingham",
+    "Bleasby",
+    "Boston",
+    "Bottesford",
+    "Burton Joyce Carlton",
+    "Cleethorpes",
+    "Collingham Doncaster Elton & Orston Gainsborough Lea Road",
+    "Grantham",
+    "Great Coates",
+    "Grimsby Docks",
+    "Grimsby Town Habrough",
+    "Havenhouse",
+    "Healing",
+    "Heckington",
+    "Hubberts Bridge",
+    "Hykeham Lincoln",
+    "Lowdham Market Rasen",
+    "Metheringham Netherfield",
+    "Newark Castle",
+    "New Clee",
+    "Nottingham Peterborough Radcliffe-on-Trent",
+    "Rauceby",
+    "Rolleston",
+    "Ruskington Saxilby",
+    "Skegness",
+    "Sleaford",
+    "Spalding",
+    "Stallingborough",
+    "Stamford",
+    "Swinderby",
+    "Swineshead Thurgarton",
+    "Thorpe Culvert Wainfleet"
+  ],
+  "route_map_images": [
+    "ticket_maps/Lincolnshire_Day_Ranger_lincolnshire_day_ranger.gif"
+  ]
+}

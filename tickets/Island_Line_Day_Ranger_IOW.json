@@ -1,0 +1,18 @@
+{
+  "name": "Island Line Day Ranger (IOW)",
+  "url": "http://www.railrover.org/pages/island-line-day-ranger.html",
+  "description": "ISLAND LINE DAY RANGER Unlimited travel for one day with weekday time restrictions between Ryde Pier Head and Shanklin on the Isle of Wight. Not to be confused with the Island Line & Steam Day Ranger which is the same but with the addition of the Isle of Wight \n      Steam Railway.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day ranger adult: \u00a37.00 child (5-15): \u00a33.20 family*: \u00a317.40 railcards: no *Family tickets are for up to 2 adults and up to 3 children Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a36.70 2023 - \u00a36.70 2022 - \u00a36.70 2021 - \u00a36.50 2020 - \u00a36.50 2019 - \u00a36.50 2018 - \u00a36.50 2014 - \u00a35.50 2011 - \u00a35.00 time restrictions Mon to Fri: valid from 08:30 No restrictions at weekends or bank holidays train operating companies Island Line purchasing Online : \u2714 Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London Kings Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Brading Lake Ryde Esplanade",
+    "Ryde Pier Head",
+    "Ryde St Johns Road Sandown",
+    "Shanklin",
+    "Smallbrook Junction"
+  ],
+  "route_map_images": [
+    "ticket_maps/Island_Line_Day_Ranger_IOW_island_line_day_ranger.gif"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "c2c Senior Rover (1 day c2c network)",
+  "url": "http://www.railrover.org/pages/c2c-senior-rover.html",
+  "description": "c2c SENIOR ROVER Unlimited weekday travel with time restrictions across the c2c network for anyone aged 65 years or over or holders of a Senior Railcard . Two tickets are available one for the whole of the c2c network between London Fenchurch Street, Southend and Shoeburyness and a cheaper version that excludes \n      the London area (zones 1-6) which excludes London Fenchurch street, Limehouse, West Ham, Barking and Dagenham Dock. Note that this is a weekday rover only and is NOT valid at weekends or on bank holidays. Proof of age is required when purchasing unless in possession of a Senior Railcard otherwise ID like a passport or driving licence is required.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions Fares correct 1st April 2025 One day rover all stns: \u00a310.00 excluding zones 1-6: \u00a37.00 railcards: no Previous fares \u2bc8 Previous fares (adult) all zones: 2024 - \u00a310.00 2023 - \u00a310.00 2022 - \u00a310.00 2021 - \u00a310.00 2020 - \u00a310.00 2019 - \u00a39.00 2018 - \u00a39.00 time restrictions Valid after 09:30 but not valid within the London Travelcard area (Zones 1-6) between 16:00-18:59 NOT valid weekends or bank holidays route restrictions Not valid on London Underground train operating companies c2c only purchasing From any c2c ticket office with proof of age"
+  },
+  "stations": [
+    "Basildon",
+    "Barking",
+    "Benfleet Chafford Hundred",
+    "Chalkwell Dagenham Dock East Tilbury Fenchurch Street Grays Laindon",
+    "Leigh-on-Sea",
+    "Limehouse Ockendon Pitsea",
+    "Purfleet Rainham Shoeburyness",
+    "Southend Central",
+    "Southend East",
+    "Stanford-le-Hope Thorpe Bay",
+    "Tilbury Town Upminster Westcliff",
+    "West Ham",
+    "West Horndon"
+  ],
+  "route_map_images": [
+    "ticket_maps/c2c_Senior_Rover_1_day_c2c_network_c2c_senior_rover.gif"
+  ]
+}

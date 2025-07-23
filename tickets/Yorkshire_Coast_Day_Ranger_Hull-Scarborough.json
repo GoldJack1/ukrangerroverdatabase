@@ -1,0 +1,19 @@
+{
+  "name": "Yorkshire Coast Day Ranger (Hull-Scarborough)",
+  "url": "http://www.railrover.org/pages/yorkshire-coast-day-ranger.html",
+  "description": "YORKSHIRE COAST DAY RANGER Unlimited travel for one day on the Hull to Scarborough Yorkshire Coast line via Bridlington and Filey. It is also valid on Arriva Bus services 93 and X93 between Scarborough \n      and Whitby.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day ranger adult: \u00a327.90 child (5-15): \u00a313.95 family*: \u00a355.90 railcards \u2bc6 16 26 SE DI 2T H : \u00a318.55 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together H = HM Forces *Family tickets are for up to 2 adults & up to 2 children, two adults can travel without a child Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a326.70 2023 - \u00a325.40 2022 - \u00a324.10 2021 - \u00a322.50 2020 - \u00a322.50 2019 - \u00a321.80 2018 - \u00a321.20 2014 - \u00a319.00 2011 - \u00a316.00 time restrictions Valid anytime but 2T railcard not valid until 09:30 train operating companies Northern purchasing Online: X Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Arram Bempton",
+    "Beverley",
+    "Bridlington Cottingham Driffield Filey Hull",
+    "Hunmanby",
+    "Hutton Cranswick Nafferton Scarborough",
+    "Seamer"
+  ],
+  "route_map_images": [
+    "ticket_maps/Yorkshire_Coast_Day_Ranger_Hull-Scarborough_yorkshire_coast_day_ranger.gif"
+  ]
+}

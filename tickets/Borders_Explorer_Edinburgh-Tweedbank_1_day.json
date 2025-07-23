@@ -1,0 +1,16 @@
+{
+  "name": "Borders Explorer (Edinburgh-Tweedbank 1 day)",
+  "url": "http://www.railrover.org/pages/borders-explorer.html",
+  "description": "BORDERS EXPLORER This is a bus ranger ticket in the Borders area of southern Scotland for one day which also includes a rail connection between Edinburgh Waverley, Galashiels and Tweedbank. It allows unlimited bus travel for one day in the borders area but you can only leave or board the train at either Galashiels or Tweedbank in order to board the connecting Borders Bus \n      services. Note that this is not a rail ranger ticket between Edinburgh and Tweedbank.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions New fares from 1st April 2025 Anytime return adult: \u00a324.40 child (5-15): \u00a314.20 railcards: no Off-peak return adult: \u00a321.50 child (5-15): \u00a311.50 railcards: no Previous fares \u2bc8 Previous fares: adult anytime: 2024 - \u00a324.40 2023 - \u00a324.40 2022 - \u00a324.40 2021 - \u00a324.40 2020 - \u00a324.40 2019 - \u00a324.40 adult off-peak: 2024 - \u00a320.70 2023 - \u00a319.00 2022 - \u00a319.00 2021 - \u00a319.00 2020 - \u00a319.00 2019 - \u00a319.00 time restrictions Mon to Fri: off-peak return valid from 09:15 No restrictions at weekends or public holidays train operating companies Scotrail purchasing Online: X Station ticket office: \u2714 Ticket Vending Machine (TVM): ? Train conductor: \u2714 * * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Edinburgh",
+    "Galashiels",
+    "Tweedbank"
+  ],
+  "route_map_images": [
+    "ticket_maps/Borders_Explorer_Edinburgh-Tweedbank_1_day_borders_explorer.gif"
+  ]
+}

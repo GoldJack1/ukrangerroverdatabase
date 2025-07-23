@@ -1,0 +1,16 @@
+{
+  "name": "Robin Hood Day Ticket (Nottingham area)",
+  "url": "http://www.railrover.org/pages/robin-hood-day-ticket.html",
+  "description": "ROBIN HOOD DAY TICKET Unlimited travel for one day on buses, trams and trains within the Robin Hood Network in Greater Nottingham. The boundary stations for rail are Attenborough, Bulwell, Carlton and Netherfield and include Beeston and Nottingham. A list of bus operators can be found on the Robin Hood website.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions Fares correct 8th June 2025 One day ranger adult: \u00a36.70 under 19s: \u00a34.40 railcards: no time restrictions Valid anytime until midnight train operating companies CrossCountry Trains, East Midlands Railway purchasing Train conductor: \u2714 * Station ticket office: \u2714 Bus driver: \u2714 Tram Ticket Vending Machines: \u2714 * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities route map"
+  },
+  "stations": [
+    "Attenborough Beeston",
+    "Bulwell Carlton Netherfield",
+    "Nottingham"
+  ],
+  "route_map_images": [
+    "ticket_maps/Robin_Hood_Day_Ticket_Nottingham_area_robin-hood.gif"
+  ]
+}

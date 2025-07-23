@@ -1,0 +1,20 @@
+{
+  "name": "Dales Rambler Day Ranger",
+  "url": "http://www.railrover.org/pages/dales-rambler-day-ranger.html",
+  "description": "DALES RAMBLER DAY RANGER Unlimited travel for one day from stations between Leeds and Bradford Forster Square to Ilkley and Skipton to access the Dales Bus network to various places \n      in the Yorkshire Dales. Access to the Yorkshire Dales is by bus, it is not valid beyond Skipton by rail. The bus network (as at March 2024) is as follows: 72 between Skipton and Grassington. 74 between Ilkley and Grassington (Saturdays only). 75 between Skipton and Malham (Saturdays only). 864/866/873 between Ilkley Skipton and Malham(Sundays and Bank Holidays only). 874/875/876 between Ilkley, Grassington and Buckden (Sundays and Bank Holidays only).",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day ranger adult: \u00a315.10 child (5-15): \u00a37.55 family: \u00a331.20 railcards \u2bc6 16 26 SE DI 2T H V : \u00a310.05 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together H = HM Forces V = Veterans Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a314.40 2023 - \u00a313.70 2022 - \u00a312.00 2021 - \u00a312.00 2020 - \u00a312.00 2019 - \u00a312.00 2018 - \u00a312.00 2014 - \u00a311.00 time restrictions No restrictions but 2T railcard not valid until 09:30 train operating companies Northern route restrictions Not valid on London North Eastern Railway purchasing Online: X Station ticket office: \u2714 Train conductor: \u2714 * Buy on the bus: X Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Baildon",
+    "Ben Rhydding",
+    "Bingley",
+    "Bradford Forster Square",
+    "Burley-in-Wharfedale Cononley",
+    "Crossflatts Frizinghall Guiseley Ilkley Keighley Leeds Menston Saltaire",
+    "Shipley",
+    "Skipton",
+    "Steeton & Silsden"
+  ],
+  "route_map_images": []
+}

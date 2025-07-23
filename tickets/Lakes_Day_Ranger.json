@@ -1,0 +1,36 @@
+{
+  "name": "Lakes Day Ranger",
+  "url": "http://www.railrover.org/pages/lakes-day-ranger.html",
+  "description": "LAKES DAY RANGER Unlimited travel for one day around Cumbria and the Lake District between Lancaster and Penrith and on the Cumbrian coast line between Carnforth and \n      Workington as well as the Heysham, Morecambe and Windermere branches.\n      It is also valid on all \"Stagecoach\" buses within Cumbria and to/from Lancaster on service 555; bus services are limited on Sundays and Bank Holidays. The ticket is also valid on Lake Windermere from Ambleside, Bowness or Lakeside using \"Windermere Lake Cruises\" scheduled services; boat services are limited during the winter \n      months.",
+  "fares_and_restrictions": {
+    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day ranger adult: \u00a331.30 child (5-15): \u00a315.65 family#: \u00a361.50 railcards \u2bc6 16 26 SE DI 2T H V : \u00a319.90 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together H = HM Forces V = Veterans #Family tickets allow up to four people travelling together but no more than two can be adults Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a329.90 2023 - \u00a328.50 2022 - \u00a326.90 2021 - \u00a325.20 2020 - \u00a325.20 2019 - \u00a324.50 2018 - \u00a323.80 2014 - \u00a321.50 2011 - \u00a319.00 time restrictions Valid anytime but 2T railcard not valid until 09:30 train operating companies Avanti West Coast, Northern, TransPennine Express purchasing Online: X Train conductor: \u2714 * Station ticket office: \u2714 Bus driver: X Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  },
+  "stations": [
+    "Arnside",
+    "Askam Bare Lane",
+    "Barrow-in-Furness",
+    "Bootle",
+    "Braystones",
+    "Burneside Cark & Cartmel",
+    "Carnforth",
+    "Corkickle Dalton",
+    "Drigg Foxfield Grange-over-Sands",
+    "Green Road Harrington",
+    "Heysham Port Kendal",
+    "Kents Bank",
+    "Kirkby-in-Furness Lancaster Millom",
+    "Morecambe Nethertown Oxenholme Lake District Parton",
+    "Penrith North Lakes Ravenglass for Eskdale",
+    "Roose Seascale",
+    "Sellafield",
+    "Silecroft",
+    "Silverdale",
+    "Staveley",
+    "St Bees Ulverston Whitehaven",
+    "Windermere",
+    "Workington"
+  ],
+  "route_map_images": [
+    "ticket_maps/Lakes_Day_Ranger_lakes_day_ranger.gif"
+  ]
+}
