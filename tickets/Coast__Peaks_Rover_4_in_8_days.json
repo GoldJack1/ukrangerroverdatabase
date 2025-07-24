@@ -5,6 +5,8 @@
   "fares": {
     "valid_from": "Last Updated: Sunday 2nd March 2025",
     "duration": "Any 4 days in 8",
+    "multi_days_valid": 4,
+    "total_duration": 8,
     "adult": "£101.30",
     "child": "£50.65",
     "railcards": [
