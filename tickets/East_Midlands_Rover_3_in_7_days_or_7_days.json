@@ -5,6 +5,8 @@
   "fares_3_in_7": {
     "valid_from": "Last Updated: Saturday 8th June 2025",
     "duration": "Any 3 days in 7",
+    "multi_days_valid": 3,
+    "total_duration": 7,
     "adult": "£116.10",
     "child": "£58.05",
     "railcards": [
@@ -22,6 +24,8 @@
   "fares_7_days": {
     "valid_from": "Last Updated: Saturday 8th June 2025",
     "duration": "7 consecutive days",
+    "multi_days_valid": 7,
+    "total_duration": 7,
     "adult": "£151.10",
     "child": "£75.55",
     "railcards": [
