@@ -5,6 +5,8 @@
   "fares": {
     "valid_from": "Last Updated: Sunday 2nd March 2025",
     "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
     "adult": "£31.20",
     "child": "£15.60",
     "railcards": [
