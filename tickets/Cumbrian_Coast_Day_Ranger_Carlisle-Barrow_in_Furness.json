@@ -1,11 +1,81 @@
 {
   "name": "Cumbrian Coast Day Ranger (Carlisle-Barrow in Furness)",
   "url": "http://www.railrover.org/pages/cumbrian-coast-day-ranger.html",
+  "RRT": "Ranger",
+  "Region": ["North West"],
+  "Country": ["England"],
   "description": "CUMBRIAN COAST DAY RANGER Unlimited travel for one day between Carlisle and Barrow in Furness along the Cumbrian coast. Alighting at Ravenglass you can visit the Ravenglass & Eskdale Railway and obtain a 10% discount off single and return fares.",
-  "fares_and_restrictions": {
-    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day ranger adult: \u00a326.40 child (5-15): \u00a313.20 16-17 saver: \u00a313.20 railcards \u2bc6 16 26 SE DI 2T FF H V : \u00a317.55 FF H V child fare: \u00a35.00 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together FF = Family & Friends H = HM Forces V = Veterans Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a325.20 2023 - \u00a324.10 2022 - \u00a322.70 2021 - \u00a321.40 2020 - \u00a321.40 2019 - \u00a320.80 2018 - \u00a320.20 2014 - \u00a319.00 2011 - \u00a317.00 time restrictions Valid anytime but 2T railcard not valid until 09:30 train operating companies Northern purchasing Online: X Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities This ticket is valid at these national network stations: Askam; Aspatria Barrow-in-Furness; Bootle; Braystones Carlisle; Corkickle Dalston; Drigg Flimby; Foxfield Green Road Harrington Kirkby-in-Furness Maryport; Millom Nethertown Parton Ravenglass for Eskdale Seascale; Sellafield; Silecroft; St Bees Whitehaven; Wigton; Workington Found an error on this page? Let us know and we'll fix it Page updated March 2025 \u00a0 \u00a0\n      Copyright \u00a9 2025 RailRover.org"
+  "fares_1_day": {
+    "valid_from": "Last Updated: Sunday 2nd March 2025",
+    "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
+    "travelclass": "Standard",
+    "adult": "£26.40",
+    "child": "£13.20",
+    "railcards": [
+      { "type": "16-17 Saver", "price": "£13.20" },
+      { "type": "16-25 Railcard", "price": "£17.55" },
+      { "type": "26-30 Railcard", "price": "£17.55" },
+      { "type": "Senior Railcard", "price": "£17.55" },
+      { "type": "Disabled Persons Railcard", "price": "£17.55" },
+      { "type": "Two Together Railcard", "price": "£17.55" },
+      { "type": "Family & Friends Railcard", "price": "£17.55" },
+      { "type": "Family & Friends Child Railcard", "price": "£5.00" },
+      { "type": "HM Forces/Veterans Railcard", "price": "£17.55" }
+    ]
   },
-  "stations": [],
+  "previous_fares_1_day": [
+    { "year": 2024, "adult": "£25.20", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2023, "adult": "£24.10", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2022, "adult": "£22.70", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2021, "adult": "£21.40", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2020, "adult": "£21.40", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2019, "adult": "£20.80", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2018, "adult": "£20.20", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2014, "adult": "£19.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2011, "adult": "£17.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" }
+  ],
+  "time_restrictions": "Valid anytime but Two Together railcard not valid until 09:30.",
+  "route_restrictions": "Unlimited travel for one day between Carlisle and Barrow in Furness along the Cumbrian coast. Alighting at Ravenglass you can visit the Ravenglass & Eskdale Railway and obtain a 10% discount off single and return fares.",
+  "train_operators_valid_on": [
+    "Northern"
+  ],
+  "where_to_buy": [
+    "Online: Not available",
+    "Train conductor: Available",
+    "Station ticket office: Available",
+    "Ticket Vending Machine (TVM): Some Northern, Avanti West Coast, and LNER TVMs sell these tickets (see notes)",
+    "Valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  ],
+  "stations": [
+    "Askam",
+    "Aspatria",
+    "Barrow-in-Furness",
+    "Bootle",
+    "Braystones",
+    "Carlisle",
+    "Corkickle",
+    "Dalston",
+    "Drigg",
+    "Flimby",
+    "Foxfield",
+    "Green Road",
+    "Harrington",
+    "Kirkby-in-Furness",
+    "Maryport",
+    "Millom",
+    "Nethertown",
+    "Parton",
+    "Ravenglass for Eskdale",
+    "Seascale",
+    "Sellafield",
+    "Silecroft",
+    "St Bees",
+    "Whitehaven",
+    "Wigton",
+    "Workington"
+  ],
   "route_map_images": [
     "ticket_maps/Cumbrian_Coast_Day_Ranger_Carlisle-Barrow_in_Furness_cumbrian_coast_day_ranger.gif"
   ]
