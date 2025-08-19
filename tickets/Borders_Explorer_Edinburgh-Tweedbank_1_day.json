@@ -1,10 +1,58 @@
 {
   "name": "Borders Explorer (Edinburgh-Tweedbank 1 day)",
   "url": "http://www.railrover.org/pages/borders-explorer.html",
-  "description": "BORDERS EXPLORER This is a bus ranger ticket in the Borders area of southern Scotland for one day which also includes a rail connection between Edinburgh Waverley, Galashiels and Tweedbank. It allows unlimited bus travel for one day in the borders area but you can only leave or board the train at either Galashiels or Tweedbank in order to board the connecting Borders Bus \n      services. Note that this is not a rail ranger ticket between Edinburgh and Tweedbank.",
-  "fares_and_restrictions": {
-    "raw": "fares & restrictions New fares from 1st April 2025 Anytime return adult: \u00a324.40 child (5-15): \u00a314.20 railcards: no Off-peak return adult: \u00a321.50 child (5-15): \u00a311.50 railcards: no Previous fares \u2bc8 Previous fares: adult anytime: 2024 - \u00a324.40 2023 - \u00a324.40 2022 - \u00a324.40 2021 - \u00a324.40 2020 - \u00a324.40 2019 - \u00a324.40 adult off-peak: 2024 - \u00a320.70 2023 - \u00a319.00 2022 - \u00a319.00 2021 - \u00a319.00 2020 - \u00a319.00 2019 - \u00a319.00 time restrictions Mon to Fri: off-peak return valid from 09:15 No restrictions at weekends or public holidays train operating companies Scotrail purchasing Online: X Station ticket office: \u2714 Ticket Vending Machine (TVM): ? Train conductor: \u2714 * * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  "RRT": "Ranger",
+  "Region": ["Edinburgh", "Borders"],
+  "Country": ["Scotland"],
+  "description": "BORDERS EXPLORER This is a bus ranger ticket in the Borders area of southern Scotland for one day which also includes a rail connection between Edinburgh Waverley, Galashiels and Tweedbank. It allows unlimited bus travel for one day in the borders area but you can only leave or board the train at either Galashiels or Tweedbank in order to board the connecting Borders Bus services. Note that this is not a rail ranger ticket between Edinburgh and Tweedbank.",
+  "fares_anytime_return": {
+    "valid_from": "Last Updated: Tuesday 1st April 2025",
+    "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
+    "travelclass": "Standard",
+    "adult": "£24.40",
+    "child": "£14.20",
+    "railcards": []
   },
+  "fares_off_peak_return": {
+    "valid_from": "Last Updated: Tuesday 1st April 2025",
+    "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
+    "travelclass": "Standard",
+    "adult": "£21.50",
+    "child": "£11.50",
+    "railcards": []
+  },
+  "previous_fares_anytime_return": [
+    { "year": 2024, "adult": "£24.40", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2023, "adult": "£24.40", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2022, "adult": "£24.40", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2021, "adult": "£24.40", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2020, "adult": "£24.40", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2019, "adult": "£24.40", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" }
+  ],
+  "previous_fares_off_peak_return": [
+    { "year": 2024, "adult": "£20.70", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2023, "adult": "£19.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2022, "adult": "£19.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2021, "adult": "£19.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2020, "adult": "£19.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2019, "adult": "£19.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" }
+  ],
+  "time_restrictions": "Mon to Fri: off-peak return valid from 09:15. No restrictions at weekends or public holidays.",
+  "route_restrictions": "This is a bus ranger ticket in the Borders area of southern Scotland for one day which also includes a rail connection between Edinburgh Waverley, Galashiels and Tweedbank. It allows unlimited bus travel for one day in the borders area but you can only leave or board the train at either Galashiels or Tweedbank in order to board the connecting Borders Bus services. Note that this is not a rail ranger ticket between Edinburgh and Tweedbank.",
+  "train_operators_valid_on": [
+    "ScotRail"
+  ],
+  "where_to_buy": [
+    "Online: Not available",
+    "Station ticket office: Available",
+    "Ticket Vending Machine (TVM): Unknown availability",
+    "Train conductor: Available",
+    "Valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  ],
   "stations": [
     "Edinburgh",
     "Galashiels",
