@@ -5,6 +5,8 @@
   "fares_1_day": {
     "valid_from": "Last Updated: Sunday 2nd March 2025",
     "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
     "adult": "£29.70",
     "child_unaccompanied": "£14.85",
     "child_with_adult": "£2.00",
@@ -22,7 +24,9 @@
   },
   "fares_3_in_7": {
     "valid_from": "Last Updated: Sunday 2nd March 2025",
-    "duration": "Any 3 days in 7",
+    "duration": "3 Day",
+    "multi_days_valid": 3,
+    "total_duration": 7,
     "adult": "£59.40",
     "child_unaccompanied": "£29.70",
     "child_with_adult": "£4.00",

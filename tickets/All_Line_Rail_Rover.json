@@ -4,7 +4,9 @@
   "description": "The All Line Rover is the \"daddy of them all\" and covers the whole network (mostly). It is available for either 7 or 14 consecutive days and is the only rail rover offering both standard and first class options. Except for the restrictions listed below it is valid at anytime and on all the trains of the Train Operating Companies listed.",
   "fares_7_day_standard": {
     "valid_from": "Last Updated: Sunday 2nd March 2025",
-    "duration": "7 consecutive days",
+    "duration": "7 days",
+    "multi_days_valid": 7,
+    "total_duration": 7,
     "class": "Standard",
     "adult": "£625.00",
     "child": "£312.50",
@@ -22,7 +24,9 @@
   },
   "fares_14_day_standard": {
     "valid_from": "Last Updated: Sunday 2nd March 2025",
-    "duration": "14 consecutive days",
+    "duration": "14 days",
+    "multi_days_valid": 14,
+    "total_duration": 14,
     "class": "Standard",
     "adult": "£949.00",
     "child": "£474.50",
@@ -40,7 +44,9 @@
   },
   "fares_7_day_first": {
     "valid_from": "Last Updated: Sunday 2nd March 2025",
-    "duration": "7 consecutive days",
+    "duration": "7 days",
+    "multi_days_valid": 7,
+    "total_duration": 7,
     "class": "First",
     "adult": "£949.00",
     "child": "£474.50",
@@ -54,7 +60,9 @@
   },
   "fares_14_day_first": {
     "valid_from": "Last Updated: Sunday 2nd March 2025",
-    "duration": "14 consecutive days",
+    "duration": "14 days",
+    "multi_days_valid": 14,
+    "total_duration": 14,
     "class": "First",
     "adult": "£1450.00",
     "child": "£725.00",
