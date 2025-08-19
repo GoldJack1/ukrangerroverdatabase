@@ -1,10 +1,45 @@
 {
   "name": "Explorer North East (Tyne & Wear day ranger)",
   "url": "http://www.railrover.org/pages/explorer-north-east.html",
-  "description": "EXPLORER NORTH EAST Unlimited travel for one day with weekday time restrictions on Tyne & Wear Metro trains and on \"Northern\" services between Blaydon, Newcastle and Sunderland as well as the Shields \n      Ferry. The ticket is also valid on many bus operators with an extended network to Berwick-upon-Tweed and the Scottish Borders, throughout Northumberland, Tyne and Wear, \n      County Durham, Teesside, North Yorkshire, as far south as Scarborough and westwards to Carlisle.",
-  "fares_and_restrictions": {
-    "raw": "fares & restrictions Fares correct 2nd March 2025 One day rover adult: \u00a313.20 child* (accompanied): \u00a36.90 family#:: \u00a325.00 railcards: no *The child ticket is for under 16's and must be accompanied by an adult #Family tickets are for 2 adults and up to 3 children Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a313.20 2023 - \u00a312.70 2022 - \u00a310.90 2021 - \u00a310.90 2020 - \u00a310.90 2019 - \u00a310.90 2018 - \u00a310.50 2014 - \u00a39.50 time restrictions Mon to Fri: valid from 09:00 No restrictions at weekends or public holidays route restrictions Only valid on the national rail network between Blaydon and Sunderland train operating companies Nexus, Northern purchasing Online: X Station ticket office: X Metro Ticket Machine: \u2714 Train conductor: X Bus driver: \u2714 Apps: \u2714"
+  "RRT": "Ranger",
+  "Region": ["North East"],
+  "Country": ["England"],
+  "description": "EXPLORER NORTH EAST Unlimited travel for one day with weekday time restrictions on Tyne & Wear Metro trains and on \"Northern\" services between Blaydon, Newcastle and Sunderland as well as the Shields Ferry. The ticket is also valid on many bus operators with an extended network to Berwick-upon-Tweed and the Scottish Borders, throughout Northumberland, Tyne and Wear, County Durham, Teesside, North Yorkshire, as far south as Scarborough and westwards to Carlisle.",
+  "fares_1_day": {
+    "valid_from": "Last Updated: Sunday 2nd March 2025",
+    "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
+    "travelclass": "Standard",
+    "adult": "£13.20",
+    "child": "£6.90",
+    "family": "£25.00",
+    "railcards": []
   },
+  "previous_fares_1_day": [
+    { "year": 2024, "adult": "£13.20", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2023, "adult": "£12.70", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2022, "adult": "£10.90", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2021, "adult": "£10.90", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2020, "adult": "£10.90", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2019, "adult": "£10.90", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2018, "adult": "£10.50", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2014, "adult": "£9.50", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" }
+  ],
+  "time_restrictions": "Mon to Fri: valid from 09:00. No restrictions at weekends or public holidays.",
+  "route_restrictions": "Only valid on the national rail network between Blaydon and Sunderland. The ticket is also valid on many bus operators with an extended network to Berwick-upon-Tweed and the Scottish Borders, throughout Northumberland, Tyne and Wear, County Durham, Teesside, North Yorkshire, as far south as Scarborough and westwards to Carlisle. The child ticket is for under 16's and must be accompanied by an adult. Family tickets are for 2 adults and up to 3 children.",
+  "train_operators_valid_on": [
+    "Nexus",
+    "Northern"
+  ],
+  "where_to_buy": [
+    "Online: Not available",
+    "Station ticket office: Not available",
+    "Metro Ticket Machine: Available",
+    "Train conductor: Not available",
+    "Bus driver: Available",
+    "Apps: Available"
+  ],
   "stations": [
     "Dunston",
     "Heworth",

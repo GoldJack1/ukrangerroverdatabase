@@ -1,18 +1,71 @@
 {
   "name": "Explore West Wales (west of Carmarthen day ranger)",
   "url": "http://www.railrover.org/pages/explore-west-wales.html",
-  "description": "EXPLORE WEST WALES Unlimited travel for one day with weekday time restrictions along the lines west from Carmarthen in west Wales to Tenby, Pembroke, Haverfordwest, Milford Haven and \n      Fishguard Harbour. Buy this ticket online from the TfW website",
-  "fares_and_restrictions": {
-    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day ranger adult: \u00a312.50 child (5-15): \u00a36.25 16-17 saver: \u00a36.25 railcards \u2bc6 16 26 SE DI 2T H V : \u00a38.30 H V child fare: \u00a32.50 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together H = HM Forces V = Veterans Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a312.00 2023 - \u00a314.00 2022 - \u00a313.50 2021 - \u00a313.50 2020 - \u00a313.50 2019 - \u00a313.00 2018 - \u00a313.00 2014 - \u00a310.20 2011 - \u00a38.80 time restrictions Mon to Fri: valid from 09:30 No restrictions at weekends or bank holidays train operating companies Transport for Wales purchasing Online from TfW website \u2714 Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  "RRT": "Ranger",
+  "Region": ["Wales"],
+  "Country": ["Wales"],
+  "description": "EXPLORE WEST WALES Unlimited travel for one day with weekday time restrictions along the lines west from Carmarthen in west Wales to Tenby, Pembroke, Haverfordwest, Milford Haven and Fishguard Harbour. Buy this ticket online from the TfW website",
+  "fares_1_day": {
+    "valid_from": "Last Updated: Sunday 2nd March 2025",
+    "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
+    "travelclass": "Standard",
+    "adult": "£12.50",
+    "child": "£6.25",
+    "railcards": [
+      { "type": "16-17 Saver", "price": "£6.25" },
+      { "type": "16-25 Railcard", "price": "£8.30" },
+      { "type": "26-30 Railcard", "price": "£8.30" },
+      { "type": "Senior Railcard", "price": "£8.30" },
+      { "type": "Disabled Persons Railcard", "price": "£8.30" },
+      { "type": "Two Together Railcard", "price": "£8.30" },
+      { "type": "HM Forces/Veterans Railcard", "price": "£8.30" },
+      { "type": "HM Forces/Veterans Child Railcard", "price": "£2.50" }
+    ]
   },
+  "previous_fares_1_day": [
+    { "year": 2024, "adult": "£12.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2023, "adult": "£14.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2022, "adult": "£13.50", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2021, "adult": "£13.50", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2020, "adult": "£13.50", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2019, "adult": "£13.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2018, "adult": "£13.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2014, "adult": "£10.20", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2011, "adult": "£8.80", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" }
+  ],
+  "time_restrictions": "Mon to Fri: valid from 09:30. No restrictions at weekends or bank holidays.",
+  "route_restrictions": "Unlimited travel for one day with weekday time restrictions along the lines west from Carmarthen in west Wales to Tenby, Pembroke, Haverfordwest, Milford Haven and Fishguard Harbour.",
+  "train_operators_valid_on": [
+    "Transport for Wales"
+  ],
+  "where_to_buy": [
+    "Online from TfW website: Available",
+    "Train conductor: Available",
+    "Station ticket office: Available",
+    "Ticket Vending Machine (TVM): Some Northern, Avanti West Coast, and LNER TVMs sell these tickets (see notes)",
+    "Valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  ],
   "stations": [
     "Carmarthen",
     "Clarbeston Road",
-    "Clunderwen Fishguard & Goodwick",
-    "Fishguard Harbour Haverfordwest Johnston Kilgetty Lamphey Manorbier",
-    "Milford Haven Narberth Pembroke",
+    "Clunderwen",
+    "Fishguard & Goodwick",
+    "Fishguard Harbour",
+    "Haverfordwest",
+    "Johnston",
+    "Kilgetty",
+    "Lamphey",
+    "Manorbier",
+    "Milford Haven",
+    "Narberth",
+    "Pembroke",
     "Pembroke Dock",
-    "Penally Saundersfoot Tenby Whitland"
+    "Penally",
+    "Saundersfoot",
+    "Tenby",
+    "Whitland"
   ],
   "route_map_images": [
     "ticket_maps/Explore_West_Wales_west_of_Carmarthen_day_ranger_explore_west_wales.gif"
