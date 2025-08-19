@@ -4,9 +4,10 @@
   "description": "Unlimited travel with weekday time restrictions for either any 3 days in 7 days or 7 consecutive days. The area stretches from New Mills Central, Stoke-on-Trent and Stafford in the west to Cleethorpes and Skegness in the east and from Doncaster in the north to Bletchley in the south and encompasses Sheffield, Derby, Nottingham, Coventry, Rugby, Leicester and Peterborough.",
   "fares_3_in_7": {
     "valid_from": "Last Updated: Saturday 8th June 2025",
-    "duration": "Any 3 days in 7",
+    "duration": "3 in 7",
     "multi_days_valid": 3,
     "total_duration": 7,
+    "travelclass": "Standard",
     "adult": "£116.10",
     "child": "£58.05",
     "railcards": [
@@ -23,9 +24,10 @@
   },
   "fares_7_days": {
     "valid_from": "Last Updated: Saturday 8th June 2025",
-    "duration": "7 consecutive days",
+    "duration": "7 days",
     "multi_days_valid": 7,
     "total_duration": 7,
+    "travelclass": "Standard",
     "adult": "£151.10",
     "child": "£75.55",
     "railcards": [
