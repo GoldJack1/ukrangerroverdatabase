@@ -1,7 +1,7 @@
 {
   "name": "Derbyshire Wayfarer (day ranger)",
   "url": "http://www.railrover.org/pages/derbyshire-wayfarer.html",
-  "RRT": ["Ranger", "ENTCS"],
+  "RRT": "Ranger",
   "Region": ["East Midlands", "West Midlands"],
   "Country": ["England"],
   "description": "DERBYSHIRE WAYFARER Unlimited travel for one day with weekday time restrictions on all trains within Derbyshire including Shirebrook to Whitwell and outside the county to Sheffield, Burton-on-Trent and Uttoxeter. It is also valid on the majority of bus services within Derbyshire and to a limited number of destinations outside the county. Details can be found on the Derbyshire CC website (link below). Shirebrook and Whitwell are isolated by rail from the rest and connected only by bus as is New Mills Newton and New Mills Central which are connected either by bus or by walking between the two. A separate ticket is also available from Nottingham and Beeston which includes rail travel from those stations to either Long Eaton or Ilkeston. The ticket is issued as a scratchcard where you have to \"scratch off\" the month and day of travel. A separate ticket is also available from Nottingham and Beeston which includes rail travel from those stations to either Long Eaton or Ilkeston. The ticket also gives discounts at various attractions in Derbyshire.",
