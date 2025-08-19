@@ -2,7 +2,7 @@
   "name": "Coast & Peaks Rover (4 in 8 days)",
   "url": "http://www.railrover.org/pages/coast-and-peaks-rover.html",
   "description": "Unlimited travel with weekday time restrictions for any 4 days in 8 days between the Pennines and the Irish Sea coast. The area encompassessses Liverpool, Manchester, Chester, Wrexham, Crewe, Stoke-on-Trent, Matlock and Buxton. On the WCML it is valid from Wigan North Western as far south as Tamworth.",
-  "fares": {
+  "fares_4_in_8": {
     "valid_from": "Last Updated: Sunday 2nd March 2025",
     "duration": "Any 4 days in 8",
     "multi_days_valid": 4,
@@ -21,7 +21,7 @@
       { "type": "Family & Friends Child Railcard", "price": "£19.20" }
     ]
   },
-  "previous_fares": [
+  "previous_fares_4_in_8": [
     { "year": 2024, "adult": "£96.80", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
     { "year": 2023, "adult": "£92.90", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
     { "year": 2022, "adult": "£87.10", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },

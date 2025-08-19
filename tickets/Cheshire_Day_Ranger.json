@@ -2,7 +2,7 @@
   "name": "Cheshire Day Ranger",
   "url": "http://www.railrover.org/pages/cheshire-day-ranger.html",
   "description": "Unlimited travel for one day in the Cheshire, Merseyside and Greater Manchester areas encompassing Chester, Liverpool, Manchester, Buxton, Stoke-on-Trent, Warrington and Crewe.",
-  "fares": {
+  "fares_1_day": {
     "valid_from": "Last Updated: Sunday 2nd March 2025",
     "duration": "1 Day",
     "multi_days_valid": 1,
@@ -21,7 +21,7 @@
       { "type": "Family & Friends Child Railcard", "price": "£5.90" }
     ]
   },
-  "previous_fares": [
+  "previous_fares_1_day": [
     {
       "year": 2024,
       "adult": "£29.80",
