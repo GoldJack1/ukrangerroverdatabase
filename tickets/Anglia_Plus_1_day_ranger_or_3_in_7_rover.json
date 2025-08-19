@@ -17,8 +17,9 @@
       { "type": "Senior Railcard", "price": "£19.80" },
       { "type": "Disabled Persons Railcard", "price": "£19.80" },
       { "type": "Two Together Railcard", "price": "£19.80" },
-      { "type": "Family & Friends Railcard", "price": "£19.80" },
       { "type": "HM Forces/Veterans Railcard", "price": "£19.80" },
+      { "type": "Family & Friends Railcard", "price": "£19.80" },
+      { "type": "Family & Friends Child Railcard", "price": "£5.60" },
       { "type": "Gold Card", "price": "£19.80" }
     ]
   },
@@ -37,8 +38,9 @@
       { "type": "Senior Railcard", "price": "£39.60" },
       { "type": "Disabled Persons Railcard", "price": "£39.60" },
       { "type": "Two Together Railcard", "price": "£39.60" },
-      { "type": "Family & Friends Railcard", "price": "£39.60" },
       { "type": "HM Forces/Veterans Railcard", "price": "£39.60" },
+      { "type": "Family & Friends Railcard", "price": "£39.60" },
+      { "type": "Family & Friends Child Railcard", "price": "£11.20" },
       { "type": "Gold Card", "price": "£39.60" }
     ]
   },
