@@ -1,6 +1,9 @@
 {
   "name": "East Midlands Rover (3 in 7 days or 7 days)",
   "url": "http://www.railrover.org/pages/east-midlands-rover.html",
+  "RRT": "Rover",
+  "Region": ["East Midlands", "West Midlands"],
+  "Country": ["England"],
   "description": "Unlimited travel with weekday time restrictions for either any 3 days in 7 days or 7 consecutive days. The area stretches from New Mills Central, Stoke-on-Trent and Stafford in the west to Cleethorpes and Skegness in the east and from Doncaster in the north to Bletchley in the south and encompasses Sheffield, Derby, Nottingham, Coventry, Rugby, Leicester and Peterborough.",
   "fares_3_in_7": {
     "valid_from": "Last Updated: Saturday 8th June 2025",

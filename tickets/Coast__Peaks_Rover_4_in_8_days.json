@@ -1,6 +1,9 @@
 {
   "name": "Coast & Peaks Rover (4 in 8 days)",
   "url": "http://www.railrover.org/pages/coast-and-peaks-rover.html",
+  "RRT": "Rover",
+  "Region": ["North West", "Yorkshire", "West Midlands"],
+  "Country": ["United Kingdom", "England", "Wales"],
   "description": "Unlimited travel with weekday time restrictions for any 4 days in 8 days between the Pennines and the Irish Sea coast. The area encompassessses Liverpool, Manchester, Chester, Wrexham, Crewe, Stoke-on-Trent, Matlock and Buxton. On the WCML it is valid from Wigan North Western as far south as Tamworth.",
   "fares_4_in_8": {
     "valid_from": "Last Updated: Sunday 2nd March 2025",

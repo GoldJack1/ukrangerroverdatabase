@@ -1,6 +1,9 @@
 {
   "name": "Cheshire Day Ranger",
   "url": "http://www.railrover.org/pages/cheshire-day-ranger.html",
+  "RRT": "Ranger",
+  "Region": ["North West", "Cheshire", "Merseyside", "Greater Manchester"],
+  "Country": ["England"],
   "description": "Unlimited travel for one day in the Cheshire, Merseyside and Greater Manchester areas encompassing Chester, Liverpool, Manchester, Buxton, Stoke-on-Trent, Warrington and Crewe.",
   "fares_1_day": {
     "valid_from": "Last Updated: Sunday 2nd March 2025",
