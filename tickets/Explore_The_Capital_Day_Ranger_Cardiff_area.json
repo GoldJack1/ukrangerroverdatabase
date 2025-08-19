@@ -1,21 +1,73 @@
 {
   "name": "Explore The Capital Day Ranger (Cardiff area)",
   "url": "http://www.railrover.org/pages/explore-the-capital-day-ranger.html",
-  "description": "EXPLORE THE CAPITAL DAY RANGER Unlimited travel for one day with weekday time restrictions on Transport for Wales services in and around the Cardiff area on the lines to Coryton, Radyr, Cardiff Bay, Eastbrook, \n      Penarth and Llanishen. Journeys started up to and including 15:59 can be completed even if a change of train is required.",
-  "fares_and_restrictions": {
-    "raw": "fares & restrictions New fares from 8th June 2025 One day ranger adult: \u00a37.50 child (5-15): \u00a33.75 16-17 saver: \u00a33.75 railcards \u2bc6 16 26 SE DI 2T H V : \u00a34.95 V child fare: \u00a31.50 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together HM = H Forces V = Veterans Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a35.00 2023 - \u00a34.80 2022 - \u00a34.60 2021 - \u00a34.60 2020 - \u00a34.60 2019 - \u00a34.50 2018 - \u00a34.50 time restrictions Mon to Fri: valid after 09:30 but not valid between 16:00 and 18.30 inclusive No restrictions at weekends and bank holidays train operating companies Transport for Wales purchasing Online: X Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities Be aware that Transport for Wales have implemented \"Pay As You Go\" tap in/tap out with reduced fares and a daily price cap (a weekly cap is also available). This has resulted in the maximum daily fare in the Explore the Capital Day Ranger area being less than the price of the ranger. There are no time restrictions and validity extends to Newport on Cross Country trains (not GWR). Find out more here ."
+  "RRT": "Ranger",
+  "Region": ["Wales"],
+  "Country": ["Wales"],
+  "description": "EXPLORE THE CAPITAL DAY RANGER Unlimited travel for one day with weekday time restrictions on Transport for Wales services in and around the Cardiff area on the lines to Coryton, Radyr, Cardiff Bay, Eastbrook, Penarth and Llanishen. Journeys started up to and including 15:59 can be completed even if a change of train is required.",
+  "fares_1_day": {
+    "valid_from": "Last Updated: Sunday 8th June 2025",
+    "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
+    "travelclass": "Standard",
+    "adult": "£7.50",
+    "child": "£3.75",
+    "railcards": [
+      { "type": "16-17 Saver", "price": "£3.75" },
+      { "type": "16-25 Railcard", "price": "£4.95" },
+      { "type": "26-30 Railcard", "price": "£4.95" },
+      { "type": "Senior Railcard", "price": "£4.95" },
+      { "type": "Disabled Persons Railcard", "price": "£4.95" },
+      { "type": "Two Together Railcard", "price": "£4.95" },
+      { "type": "HM Forces/Veterans Railcard", "price": "£4.95" },
+      { "type": "HM Forces/Veterans Child Railcard", "price": "£1.50" }
+    ]
   },
+  "previous_fares_1_day": [
+    { "year": 2024, "adult": "£5.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2023, "adult": "£4.80", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2022, "adult": "£4.60", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2021, "adult": "£4.60", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2020, "adult": "£4.60", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2019, "adult": "£4.50", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2018, "adult": "£4.50", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" }
+  ],
+  "time_restrictions": "Mon to Fri: valid after 09:30 but not valid between 16:00 and 18:30 inclusive. No restrictions at weekends and bank holidays.",
+  "route_restrictions": "Unlimited travel for one day with weekday time restrictions on Transport for Wales services in and around the Cardiff area on the lines to Coryton, Radyr, Cardiff Bay, Eastbrook, Penarth and Llanishen. Journeys started up to and including 15:59 can be completed even if a change of train is required. Be aware that Transport for Wales have implemented \"Pay As You Go\" tap in/tap out with reduced fares and a daily price cap (a weekly cap is also available). This has resulted in the maximum daily fare in the Explore the Capital Day Ranger area being less than the price of the ranger. There are no time restrictions and validity extends to Newport on Cross Country trains (not GWR).",
+  "train_operators_valid_on": [
+    "Transport for Wales"
+  ],
+  "where_to_buy": [
+    "Online: Not available",
+    "Train conductor: Available",
+    "Station ticket office: Available",
+    "Ticket Vending Machine (TVM): Some Northern, Avanti West Coast, and LNER TVMs sell these tickets (see notes)",
+    "Valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  ],
   "stations": [
-    "Birchgrove Cardiff Bay",
+    "Birchgrove",
+    "Cardiff Bay",
     "Cardiff Central",
     "Cardiff Queen Street",
     "Cathays",
     "Cogan",
-    "Coryton Danescourt",
-    "Dingle Road Eastbrook Fairwater Grangetown Heath High Level",
-    "Heath Low Level Llandaf",
-    "Llanisien Ninian Park Penarth Radyr",
-    "Rhiwbina Ty Glas Waun-Gron Park",
+    "Coryton",
+    "Danescourt",
+    "Dingle Road",
+    "Eastbrook",
+    "Fairwater",
+    "Grangetown",
+    "Heath High Level",
+    "Heath Low Level",
+    "Llandaf",
+    "Llanishen",
+    "Ninian Park",
+    "Penarth",
+    "Radyr",
+    "Rhiwbina",
+    "Ty Glas",
+    "Waun-Gron Park",
     "Whitchurch"
   ],
   "route_map_images": [
