@@ -12,12 +12,24 @@
     "total_duration": 1,
     "travelclass": "Standard",
     "zonal_pricing": {
-      "Zone A": "£7.50",
-      "Zone A+B": "£14.50",
-      "Zone A+C": "£14.50",
-      "Zone A+B+C": "£16.50",
-      "Zone A+B+D": "£16.50",
-      "Zone A+B+C+D": "£22.00"
+      "Zone A": {
+        "adult": "£7.50",
+      },
+      "Zone A+B": {
+        "adult": "£14.50",
+      },
+      "Zone A+C": {
+        "adult": "£14.50",
+      },
+      "Zone A+B+C": {
+        "adult": "£16.50",
+      },
+      "Zone A+B+D": {
+        "adult": "£16.50",
+      },
+      "Zone A+B+C+D": {
+        "adult": "£22.00",
+      }
     }
   },
   "fares_7_days": {
@@ -27,12 +39,22 @@
     "total_duration": 7,
     "travelclass": "Standard",
     "zonal_pricing": {
-      "Zone A": "£33.00",
+      "Zone A": {
+        "adult": "£33.00",
+      },
       "Zone A+B": "£58.00",
-      "Zone A+C": "£58.00",
-      "Zone A+B+C": "£69.00",
-      "Zone A+B+D": "£69.00",
-      "Zone A+B+C+D": "£90.00"
+      "Zone A+C": {
+        "adult": "£58.00",
+      },
+      "Zone A+B+C": {
+        "adult": "£69.00",
+      },
+      "Zone A+B+D": {
+        "adult": "£69.00",
+      },
+      "Zone A+B+C+D": {
+        "adult": "£90.00",
+      }
     }
   },
   "fares_1_month": {
@@ -42,12 +64,24 @@
     "total_duration": 30,
     "travelclass": "Standard",
     "zonal_pricing": {
-      "Zone A": "£120.00",
-      "Zone A+B": "£225.00",
-      "Zone A+C": "£225.00",
-      "Zone A+B+C": "£265.00",
-      "Zone A+B+D": "£265.00",
-      "Zone A+B+C+D": "£345.00"
+      "Zone A": {
+        "adult": "£120.00",
+      },
+      "Zone A+B": {
+        "adult": "£225.00",
+      },
+      "Zone A+C": {
+        "adult": "£225.00",
+      },
+      "Zone A+B+C": {
+        "adult": "£265.00",
+      },
+      "Zone A+B+D": {
+        "adult": "£265.00",
+      },
+      "Zone A+B+C+D": {
+        "adult": "£345.00",
+      }
     }
   },
   "time_restrictions": "Valid anytime.",
