@@ -1,10 +1,45 @@
 {
   "name": "Nexus Day Rover (Tyne & Wear)",
   "url": "http://www.railrover.org/pages/nexus-day-rover.html",
-  "description": "NEXUS DAY ROVER Unlimited travel for one day throughout the whole of Tyne & Wear on Metro trains, buses and on Northern services between Blaydon, Newcastle and Sunderland and the \n      Shields Ferry. Other tickets are available for travel throughout Tyne & Wear see their website for details",
-  "fares_and_restrictions": {
-    "raw": "fares & restrictions Fares correct 8th June 2025 One day rover adult: \u00a36.80 child (under 22): \u00a33.00 family#: \u00a318.80 railcards: no #Family tickets are for 1 or 2 Adults and must include a child with a maximum of 3 Children Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a36.00 2023 - \u00a39.10 2022 - \u00a37.80 2021 - \u00a37.80 2020 - \u00a37.80 2019 - \u00a37.80 2018 - \u00a37.50 2014 - \u00a36.90 time restrictions Valid anytime train operating companies Nexus, Northern purchasing Online: X Station ticket office (Nexus area) : \u2714 Metro Ticket Machine: \u2714 Train conductor: X Bus driver: \u2714 Apps: \u2714"
+  "RRT": "Rover",
+  "Region": ["North East"],
+  "Country": ["England"],
+  "description": "NEXUS DAY ROVER Unlimited travel for one day throughout the whole of Tyne & Wear on Metro trains, buses and on Northern services between Blaydon, Newcastle and Sunderland and the Shields Ferry. Other tickets are available for travel throughout Tyne & Wear see their website for details",
+  "fares_1_day": {
+    "valid_from": "Last Updated: Sunday 8th June 2025",
+    "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
+    "travelclass": "Standard",
+    "adult": "£6.80",
+    "child_under_22": "£3.00",
+    "family": "£18.80",
+    "railcards": []
   },
+  "previous_fares_1_day": [
+    { "year": 2024, "adult": "£6.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2023, "adult": "£9.10", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2022, "adult": "£7.80", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2021, "adult": "£7.80", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2020, "adult": "£7.80", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2019, "adult": "£7.80", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2018, "adult": "£7.50", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2014, "adult": "£6.90", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" }
+  ],
+  "time_restrictions": "Valid anytime.",
+  "route_restrictions": "Unlimited travel for one day throughout the whole of Tyne & Wear on Metro trains, buses and on Northern services between Blaydon, Newcastle and Sunderland and the Shields Ferry. Other tickets are available for travel throughout Tyne & Wear see their website for details. Family tickets are for 1 or 2 Adults and must include a child with a maximum of 3 Children.",
+  "train_operators_valid_on": [
+    "Nexus",
+    "Northern"
+  ],
+  "where_to_buy": [
+    "Online: Not available",
+    "Station ticket office (Nexus area): Available",
+    "Metro Ticket Machine: Available",
+    "Train conductor: Not available",
+    "Bus driver: Available",
+    "Apps: Available"
+  ],
   "stations": [
     "Blaydon",
     "Dunston",

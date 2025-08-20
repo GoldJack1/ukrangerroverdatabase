@@ -1,7 +1,7 @@
 {
   "name": "Merseytravel Saveaway (1 day rail, bus & ferry)",
   "url": "http://www.railrover.org/pages/merseytravel-saveaway.html",
-  "RRT": "Ranger",
+  "RRT": ["Ranger", "ENTCS"],
   "Region": ["North West"],
   "Country": ["England"],
   "description": "MERSEYTRAVEL SAVEAWAY Unlimited travel with weekday time restrictions for one day across the Mersey rail network extending as far as Southport, Ormskirk, Kirkby, Hunts Cross, Ellesmere Port, Chester, West Kirby and New Brighton. Also valid on most buses and the \"All Area\" ticket is also valid on ferries. *Tickets bought at Merseyrail stations are issued on \"Metrocards\" for which there is a £1 activation fee.",
