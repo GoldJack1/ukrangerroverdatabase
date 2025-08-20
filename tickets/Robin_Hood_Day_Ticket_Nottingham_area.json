@@ -1,13 +1,39 @@
 {
   "name": "Robin Hood Day Ticket (Nottingham area)",
   "url": "http://www.railrover.org/pages/robin-hood-day-ticket.html",
+  "RRT": "Ranger",
+  "Region": ["East Midlands"],
+  "Country": ["England"],
   "description": "ROBIN HOOD DAY TICKET Unlimited travel for one day on buses, trams and trains within the Robin Hood Network in Greater Nottingham. The boundary stations for rail are Attenborough, Bulwell, Carlton and Netherfield and include Beeston and Nottingham. A list of bus operators can be found on the Robin Hood website.",
-  "fares_and_restrictions": {
-    "raw": "fares & restrictions Fares correct 8th June 2025 One day ranger adult: \u00a36.70 under 19s: \u00a34.40 railcards: no time restrictions Valid anytime until midnight train operating companies CrossCountry Trains, East Midlands Railway purchasing Train conductor: \u2714 * Station ticket office: \u2714 Bus driver: \u2714 Tram Ticket Vending Machines: \u2714 * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities route map"
+  "fares_1_day": {
+    "valid_from": "Last Updated: Sunday 8th June 2025",
+    "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
+    "travelclass": "Standard",
+    "adult": "£6.70",
+    "under_19s": "£4.40",
+    "railcards": []
   },
+  "time_restrictions": "Valid anytime until midnight.",
+  "route_restrictions": "Unlimited travel for one day on buses, trams and trains within the Robin Hood Network in Greater Nottingham. The boundary stations for rail are Attenborough, Bulwell, Carlton and Netherfield and include Beeston and Nottingham. A list of bus operators can be found on the Robin Hood website.",
+  "train_operators_valid_on": [
+    "CrossCountry Trains",
+    "East Midlands Railway"
+  ],
+  "where_to_buy": [
+    "Train conductor: Available",
+    "Station ticket office: Available",
+    "Bus driver: Available",
+    "Tram Ticket Vending Machines: Available",
+    "Valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  ],
   "stations": [
-    "Attenborough Beeston",
-    "Bulwell Carlton Netherfield",
+    "Attenborough",
+    "Beeston",
+    "Bulwell",
+    "Carlton",
+    "Netherfield",
     "Nottingham"
   ],
   "route_map_images": [
