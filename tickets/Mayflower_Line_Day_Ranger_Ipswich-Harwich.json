@@ -1,14 +1,56 @@
 {
   "name": "Mayflower Line Day Ranger (Ipswich-Harwich)",
   "url": "http://www.railrover.org/pages/mayflower-line-day-ranger.html",
+  "RRT": "Ranger",
+  "Region": ["East of England"],
+  "Country": ["England"],
   "description": "MAYFLOWER LINE DAY RANGER Unlimited travel for one day with weekday time restrictions to all stations between Ipswich, Manningtree and Harwich Town along what is called the \"Mayflower Line\".",
-  "fares_and_restrictions": {
-    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day ranger adult: \u00a311.50 child (5-15): \u00a35.75 16-17 saver: \u00a35.75 family: \u00a323.00 railcards \u2bc6 16 26 SE DI 2T FF H V : \u00a37.65 DI FF H V child fare: \u00a32.00 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together FF = Family & Friends H = HM Forces V = Veterans Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a311.00 Family tickets are for up to 2 adults and 2 children aged 5-15 time restrictions Mon to Fri: valid from 08:30 but 2T railcard not valid until 09:30 No restrictions at weekends or bank holidays train operating companies Greater Anglia purchasing Online: X Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London Kings Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  "fares_1_day": {
+    "valid_from": "Last Updated: Sunday 2nd March 2025",
+    "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
+    "travelclass": "Standard",
+    "adult": "£11.50",
+    "child": "£5.75",
+    "family": "£23.00",
+    "railcards": [
+      { "type": "16-17 Saver", "price": "£5.75" },
+      { "type": "16-25 Railcard", "price": "£7.65" },
+      { "type": "26-30 Railcard", "price": "£7.65" },
+      { "type": "Senior Railcard", "price": "£7.65" },
+      { "type": "Disabled Persons Railcard", "price": "£7.65" },
+      { "type": "Disabled Persons Child Railcard", "price": "£2.00" },
+      { "type": "Two Together Railcard", "price": "£7.65" },
+      { "type": "Family & Friends Railcard", "price": "£7.65" },
+      { "type": "Family & Friends Child Railcard", "price": "£2.00" },
+      { "type": "HM Forces/Veterans Railcard", "price": "£7.65" },
+      { "type": "HM Forces/Veterans Child Railcard", "price": "£2.00" }
+    ]
   },
+  "previous_fares_1_day": [
+    { "year": 2024, "adult": "£11.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" }
+  ],
+  "time_restrictions": "Mon to Fri: valid from 08:30 but Two Together railcard not valid until 09:30. No restrictions at weekends or bank holidays.",
+  "route_restrictions": "Unlimited travel for one day with weekday time restrictions to all stations between Ipswich, Manningtree and Harwich Town along what is called the \"Mayflower Line\". Family tickets are for up to 2 adults and 2 children aged 5-15.",
+  "train_operators_valid_on": [
+    "Greater Anglia"
+  ],
+  "where_to_buy": [
+    "Online: Not available",
+    "Train conductor: Available",
+    "Station ticket office: Available",
+    "Ticket Vending Machine (TVM): Some Northern, Avanti West Coast, and LNER TVMs sell these tickets (see notes)",
+    "Valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  ],
   "stations": [
-    "Dovercourt Harwich International",
-    "Harwich Town Ipswich Manningtree",
-    "Mistley Wrabness"
+    "Dovercourt",
+    "Harwich International",
+    "Harwich Town",
+    "Ipswich",
+    "Manningtree",
+    "Mistley",
+    "Wrabness"
   ],
   "route_map_images": [
     "ticket_maps/Mayflower_Line_Day_Ranger_Ipswich-Harwich_mayflower_line_day_ranger.gif"
