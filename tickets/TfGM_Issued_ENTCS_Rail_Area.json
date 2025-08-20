@@ -5,6 +5,7 @@
   "Region": ["North West"],
   "Country": ["England"],
   "description": "TfGM Issued ENTCS Pass holders can enjoy unlimited travel with weekday time restrictions on all trains and Manchester Metrolink trams in the Greater Manchester area and beyond. It extends from Chorley, Darwen and Littleborough in the north to Northwich, Macclesfield and Buxton in the south and from Warrington and Wigan in the west to Hadfield and Grindleford in the east. It is also valid on buses with an even greater area of validity ranging from Accrington and Burnley in the north to Ashbourne in the south.",
+  "fares_1_day": {},
   "time_restrictions": "Mon to Fri: valid from 09:30 on Buses, Trains & Trams. No restrictions at weekends and bank holidays. Certain Pass Types allow Travel for Free at anytime of day.",
   "route_restrictions": "Unlimited travel with weekday time restrictions for one day on all trains and Manchester Metrolink trams in the Greater Manchester area and beyond. It extends from Chorley, Darwen and Littleborough in the north to Northwich, Macclesfield and Buxton in the south and from Warrington and Wigan in the west to Hadfield and Grindleford in the east. It is also valid on buses with an even greater area of validity ranging from Accrington and Burnley in the north to Ashbourne in the south. Not valid to Warrington West. Group tickets are for a maximum of 4 persons with up to 2 adults. Concessions apply to English National Concessionary Pass (ENCP) holders.",
   "train_operators_valid_on": [
