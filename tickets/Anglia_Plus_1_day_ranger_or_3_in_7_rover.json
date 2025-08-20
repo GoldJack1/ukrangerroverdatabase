@@ -1,7 +1,7 @@
 {
   "name": "Anglia Plus (1 day ranger or 3 in 7 rover)",
   "url": "http://www.railrover.org/pages/anglia-plus.html",
-  "RRT": "Rover",
+  "RRT": ["Rover", "Ranger"],
   "Region": ["East of England", "East Midlands"],
   "Country": ["England"],
   "description": "Unlimited travel with weekday time restrictions for either one day (Anglia Plus One Day Ranger) or any 3 days in 7 days (Anglia Plus Three Days in Seven Flexi Rover) in Norfolk and parts of Cambridgeshire and Suffolk within the boundaries of Cambridge, Ely and Ipswich. It includes Norwich, Cromer and Sheringham as well as Great Yarmouth and Lowestoft and along the East Suffolk Line between Lowestoft and Ipswich as well as the Felixstowe branch. It is also valid on some local bus services - see the website for details.",
