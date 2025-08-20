@@ -42,7 +42,9 @@
       "Zone A": {
         "adult": "£33.00",
       },
-      "Zone A+B": "£58.00",
+      "Zone A+B": {
+        "adult": "£58.00",
+      },
       "Zone A+C": {
         "adult": "£58.00",
       },
