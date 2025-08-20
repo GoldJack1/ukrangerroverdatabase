@@ -1,19 +1,73 @@
 {
   "name": "Kennet Day Ranger (Reading-Bedwyn/Basingstoke)",
   "url": "http://www.railrover.org/pages/kennet-day-ranger.html",
+  "RRT": "Ranger",
+  "Region": ["South East"],
+  "Country": ["England"],
   "description": "KENNET DAY RANGER Unlimited travel with weekday time restrictions for one day between Reading and Bedwyn and Reading and Basingstoke.",
-  "fares_and_restrictions": {
-    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day ranger adult: \u00a317.50 child (5-15): \u00a38.75 16-17 saver: \u00a38.75 railcards \u2bc6 16 26 SE DI 2T FF H V N : \u00a311.65 FF H V N child fare: \u00a34.40 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together FF = Family & Friends H = HM Forces V = Veterans N = Network Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a316.50 2023 - \u00a315.50 2022 - \u00a314.50 2021 - \u00a313.50 2020 - \u00a313.50 2019 - \u00a313.00 2018 - \u00a312.40 2014 - \u00a313:50 2011 - \u00a312.00 Note that the Network railcard has a weekday minimum fare of \u00a313.00 time restrictions Mon to Fri: valid from 09:30 or from when the off-peak day return becomes valid if earlier but 2T railcard not valid until 09:30 and NW railcard not valid until 10:00. Also not valid for travel on high speed services from Reading between 17:00-19:30 train operating companies Cross Country, Great Western Railway, South Western Railway purchasing Online : \u2714 Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  "fares_1_day": {
+    "valid_from": "Last Updated: Sunday 2nd March 2025",
+    "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
+    "travelclass": "Standard",
+    "adult": "£17.50",
+    "child": "£8.75",
+    "railcards": [
+      { "type": "16-17 Saver", "price": "£8.75" },
+      { "type": "16-25 Railcard", "price": "£11.65" },
+      { "type": "26-30 Railcard", "price": "£11.65" },
+      { "type": "Senior Railcard", "price": "£11.65" },
+      { "type": "Disabled Persons Railcard", "price": "£11.65" },
+      { "type": "Two Together Railcard", "price": "£11.65" },
+      { "type": "Family & Friends Railcard", "price": "£11.65" },
+      { "type": "Family & Friends Child Railcard", "price": "£4.40" },
+      { "type": "HM Forces/Veterans Railcard", "price": "£11.65" },
+      { "type": "HM Forces/Veterans Child Railcard", "price": "£4.40" },
+      { "type": "Network Railcard", "price": "£11.65" },
+      { "type": "Network Railcard Child", "price": "£4.40" }
+    ]
   },
+  "previous_fares_1_day": [
+    { "year": 2024, "adult": "£16.50", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2023, "adult": "£15.50", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2022, "adult": "£14.50", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2021, "adult": "£13.50", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2020, "adult": "£13.50", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2019, "adult": "£13.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2018, "adult": "£12.40", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2014, "adult": "£13.50", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },
+    { "year": 2011, "adult": "£12.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" }
+  ],
+  "time_restrictions": "Mon to Fri: valid from 09:30 or from when the off-peak day return becomes valid if earlier but Two Together railcard not valid until 09:30 and Network railcard not valid until 10:00. Also not valid for travel on high speed services from Reading between 17:00-19:30.",
+  "route_restrictions": "Unlimited travel with weekday time restrictions for one day between Reading and Bedwyn and Reading and Basingstoke. Note that the Network railcard has a weekday minimum fare of £13.00.",
+  "train_operators_valid_on": [
+    "Cross Country",
+    "Great Western Railway",
+    "South Western Railway"
+  ],
+  "where_to_buy": [
+    "Online: Available",
+    "Train conductor: Available",
+    "Station ticket office: Available",
+    "Ticket Vending Machine (TVM): Some Northern, Avanti West Coast, and LNER TVMs sell these tickets (see notes)",
+    "Valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  ],
   "stations": [
-    "Aldermaston Basingstoke",
+    "Aldermaston",
+    "Basingstoke",
     "Bedwyn",
-    "Bramley Hungerford",
-    "Kintbury Midgham",
-    "Mortimer Newbury",
-    "Newbury Racecourse Reading",
+    "Bramley",
+    "Hungerford",
+    "Kintbury",
+    "Midgham",
+    "Mortimer",
+    "Newbury",
+    "Newbury Racecourse",
+    "Reading",
     "Reading Green Park",
-    "Reading West Thatcham",
+    "Reading West",
+    "Thatcham",
     "Theale"
   ],
   "route_map_images": [

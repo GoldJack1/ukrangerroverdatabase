@@ -1,7 +1,7 @@
 {
   "name": "TfGM Issued ENTCS Pass Rail & Tram Area",
   "url": "http://www.railrover.org/pages/greater-manchester-wayfarer.html",
-  "RRT": "ENCTS",
+  "RRT": ["ENCTS"],
   "Region": ["North West"],
   "Country": ["England"],
   "description": "TfGM Issued ENTCS Pass holders can enjoy unlimited travel with weekday time restrictions on all trains and Manchester Metrolink trams in the Greater Manchester area and beyond. It extends from Chorley, Darwen and Littleborough in the north to Northwich, Macclesfield and Buxton in the south and from Warrington and Wigan in the west to Hadfield and Grindleford in the east. It is also valid on buses with an even greater area of validity ranging from Accrington and Burnley in the north to Ashbourne in the south.",
