@@ -5,35 +5,50 @@
   "Region": ["South West"],
   "Country": ["England"],
   "description": "FREEDOM TRAVELPASS (Bristol area) Unlimited rail travel and most bus services in Bristol, Bath, North Somerset, North East Somerset and South Gloucestershire for either 1 day, 7 days or 1 month. The ticket is based on four zones radiating out from Bristol and for rail it is bordered by Severn Beach, Pilning, Yate, Freshford and Weston-super-Mare with other locations served by bus. The ticket is also accepted on the following bus services: ABUS, Faresaver Buses*, First West of England*, South Gloucestershire Council (and supported services), Stagecoach Southwest* and Stagecoach West*. * tickets can be purchased from these operators. Day Freedom Travelpasses can be purchased from First West of England bus drivers. A Photocard is required for the monthly Travelpass. There are no child or railcard discounts.",
-  "fares_1_day_bristol_zone": {
+  "fares_1_day": {
     "valid_from": "Last Updated: Sunday 1st June 2025",
     "duration": "1 Day",
     "multi_days_valid": 1,
     "total_duration": 1,
     "travelclass": "Standard",
-    "adult": "£7.50",
-    "child": "",
-    "railcards": []
+    "zonal_pricing": {
+      "Zone A": "£7.50",
+      "Zone A+B": "£14.50",
+      "Zone A+C": "£14.50",
+      "Zone A+B+C": "£16.50",
+      "Zone A+B+D": "£16.50",
+      "Zone A+B+C+D": "£22.00"
+    }
   },
-  "fares_7_days_bristol_zone": {
+  "fares_7_days": {
     "valid_from": "Last Updated: Sunday 1st June 2025",
     "duration": "7 Days",
     "multi_days_valid": 7,
     "total_duration": 7,
     "travelclass": "Standard",
-    "adult": "£33.00",
-    "child": "",
-    "railcards": []
+    "zonal_pricing": {
+      "Zone A": "£33.00",
+      "Zone A+B": "£58.00",
+      "Zone A+C": "£58.00",
+      "Zone A+B+C": "£69.00",
+      "Zone A+B+D": "£69.00",
+      "Zone A+B+C+D": "£90.00"
+    }
   },
-  "fares_1_month_bristol_zone": {
+  "fares_1_month": {
     "valid_from": "Last Updated: Sunday 1st June 2025",
     "duration": "1 Month",
     "multi_days_valid": 30,
     "total_duration": 30,
     "travelclass": "Standard",
-    "adult": "£120.00",
-    "child": "",
-    "railcards": []
+    "zonal_pricing": {
+      "Zone A": "£120.00",
+      "Zone A+B": "£225.00",
+      "Zone A+C": "£225.00",
+      "Zone A+B+C": "£265.00",
+      "Zone A+B+D": "£265.00",
+      "Zone A+B+C+D": "£345.00"
+    }
   },
   "time_restrictions": "Valid anytime.",
   "route_restrictions": "Unlimited rail travel and most bus services in Bristol, Bath, North Somerset, North East Somerset and South Gloucestershire. The ticket is based on four zones radiating out from Bristol and for rail it is bordered by Severn Beach, Pilning, Yate, Freshford and Weston-super-Mare with other locations served by bus. The ticket is also accepted on the following bus services: ABUS, Faresaver Buses*, First West of England*, South Gloucestershire Council (and supported services), Stagecoach Southwest* and Stagecoach West*. * tickets can be purchased from these operators. Day Freedom Travelpasses can be purchased from First West of England bus drivers. A Photocard is required for the monthly Travelpass. There are no child or railcard discounts.",
