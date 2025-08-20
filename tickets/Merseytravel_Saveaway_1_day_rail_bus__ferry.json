@@ -6,7 +6,7 @@
   "Country": ["England"],
   "description": "MERSEYTRAVEL SAVEAWAY Unlimited travel with weekday time restrictions for one day across the Mersey rail network extending as far as Southport, Ormskirk, Kirkby, Hunts Cross, Ellesmere Port, Chester, West Kirby and New Brighton. Also valid on most buses and the \"All Area\" ticket is also valid on ferries. *Tickets bought at Merseyrail stations are issued on \"Metrocards\" for which there is a £1 activation fee.",
   "fares_1_day": {
-    "valid_from": "Last Updated: 2025",
+    "valid_from": "Last Updated: Tuesday 1st April 2025",
     "duration": "1 Day",
     "multi_days_valid": 1,
     "total_duration": 1,
