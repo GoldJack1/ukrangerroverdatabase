@@ -1,10 +1,32 @@
 {
   "name": "West Wight Wanderer Day Ranger",
   "url": "http://www.railrover.org/pages/west-wight-wanderer-day-ranger.html",
-  "description": "WEST WIGHT WANDERER DAY RANGER Unlimited travel for one day with weekday rail time restrictions between Brockenhurst and Lymington Pier and a return journey on Wightlink's ferry between Lymington Pier and Yarmouth \n      on the Isle of Wight. It is available until the 2nd of November 2025. The ticket also includes unlimited travel on Southern Vectis route 7 between Yarmouth, the Needles and Newport and the \"Needles Breezer\", an open-top bus tour between Yarmouth \n      and The Needles.",
-  "fares_and_restrictions": {
-    "raw": "fares & restrictions New fares from 18th May 2025 One day ranger adult: \u00a330.00 child (5-15): \u00a318.00 railcards: no time restrictions Mon to Fri: valid from 09:00 but 08:59 on South Western Railway No restrictions at weekends or public holidays train operating companies South Western Railway purchasing Online : \u2714 Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London Kings Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  "RRT": "Ranger",
+  "Region": ["South East"],
+  "Country": ["England"],
+  "description": "WEST WIGHT WANDERER DAY RANGER Unlimited travel for one day with weekday rail time restrictions between Brockenhurst and Lymington Pier and a return journey on Wightlink's ferry between Lymington Pier and Yarmouth on the Isle of Wight. It is available until the 2nd of November 2025. The ticket also includes unlimited travel on Southern Vectis route 7 between Yarmouth, the Needles and Newport and the \"Needles Breezer\", an open-top bus tour between Yarmouth and The Needles.",
+  "fares_1_day": {
+    "valid_from": "Last Updated: Sunday 18th May 2025",
+    "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
+    "travelclass": "Standard",
+    "adult": "£30.00",
+    "child": "£18.00",
+    "railcards": []
   },
+  "time_restrictions": "Mon to Fri: valid from 09:00 but 08:59 on South Western Railway. No restrictions at weekends or public holidays.",
+  "route_restrictions": "No specific route restrictions mentioned",
+  "train_operators_valid_on": [
+    "South Western Railway"
+  ],
+  "where_to_buy": [
+    "Online: Available",
+    "Train conductor: Available",
+    "Station ticket office: Available",
+    "Ticket Vending Machine (TVM): Some Northern, Avanti West Coast, and LNER TVMs sell these tickets (see notes)",
+    "Valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  ],
   "stations": [
     "Brockenhurst",
     "Lymington Pier",

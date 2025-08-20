@@ -1,16 +1,64 @@
 {
   "name": "Yorkshire Coast Day Ranger (Hull-Scarborough)",
   "url": "http://www.railrover.org/pages/yorkshire-coast-day-ranger.html",
-  "description": "YORKSHIRE COAST DAY RANGER Unlimited travel for one day on the Hull to Scarborough Yorkshire Coast line via Bridlington and Filey. It is also valid on Arriva Bus services 93 and X93 between Scarborough \n      and Whitby.",
-  "fares_and_restrictions": {
-    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day ranger adult: \u00a327.90 child (5-15): \u00a313.95 family*: \u00a355.90 railcards \u2bc6 16 26 SE DI 2T H : \u00a318.55 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together H = HM Forces *Family tickets are for up to 2 adults & up to 2 children, two adults can travel without a child Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a326.70 2023 - \u00a325.40 2022 - \u00a324.10 2021 - \u00a322.50 2020 - \u00a322.50 2019 - \u00a321.80 2018 - \u00a321.20 2014 - \u00a319.00 2011 - \u00a316.00 time restrictions Valid anytime but 2T railcard not valid until 09:30 train operating companies Northern purchasing Online: X Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  "RRT": "Ranger",
+  "Region": ["Yorkshire and the Humber"],
+  "Country": ["England"],
+  "description": "YORKSHIRE COAST DAY RANGER Unlimited travel for one day on the Hull to Scarborough Yorkshire Coast line via Bridlington and Filey. It is also valid on Arriva Bus services 93 and X93 between Scarborough and Whitby.",
+  "fares_1_day": {
+    "valid_from": "Last Updated: Sunday 2nd March 2025",
+    "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
+    "travelclass": "Standard",
+    "adult": "£27.90",
+    "child": "£13.95",
+    "family": "£55.90 (up to 2 adults & up to 2 children, two adults can travel without a child)",
+    "railcards": [
+      { "type": "16-25 Railcard", "price": "£18.55" },
+      { "type": "26-30 Railcard", "price": "£18.55" },
+      { "type": "Senior Railcard", "price": "£18.55" },
+      { "type": "Disabled Persons Railcard", "price": "£18.55" },
+      { "type": "Two Together Railcard", "price": "£18.55" },
+      { "type": "HM Forces Railcard", "price": "£18.55" }
+    ]
   },
+  "previous_fares_1_day": [
+    { "year": 2024, "adult": "£26.70" },
+    { "year": 2023, "adult": "£25.40" },
+    { "year": 2022, "adult": "£24.10" },
+    { "year": 2021, "adult": "£22.50" },
+    { "year": 2020, "adult": "£22.50" },
+    { "year": 2019, "adult": "£21.80" },
+    { "year": 2018, "adult": "£21.20" },
+    { "year": 2014, "adult": "£19.00" },
+    { "year": 2011, "adult": "£16.00" }
+  ],
+  "time_restrictions": "Valid anytime but 2T railcard not valid until 09:30.",
+  "route_restrictions": "No specific route restrictions mentioned",
+  "train_operators_valid_on": [
+    "Northern"
+  ],
+  "where_to_buy": [
+    "Online: Not available",
+    "Train conductor: Available",
+    "Station ticket office: Available",
+    "Ticket Vending Machine (TVM): Some Northern, Avanti West Coast, and LNER TVMs sell these tickets (see notes)",
+    "Valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  ],
   "stations": [
-    "Arram Bempton",
+    "Arram",
+    "Bempton",
     "Beverley",
-    "Bridlington Cottingham Driffield Filey Hull",
+    "Bridlington",
+    "Cottingham",
+    "Driffield",
+    "Filey",
+    "Hull",
     "Hunmanby",
-    "Hutton Cranswick Nafferton Scarborough",
+    "Hutton Cranswick",
+    "Nafferton",
+    "Scarborough",
     "Seamer"
   ],
   "route_map_images": [

@@ -1,16 +1,71 @@
 {
   "name": "Wherry Line Ranger (Norwich-Gt Yarmouth/Lowestoft)",
   "url": "http://www.railrover.org/pages/wherry-line-ranger.html",
+  "RRT": "Ranger",
+  "Region": ["East of England"],
+  "Country": ["England"],
   "description": "WHERRY LINE RANGER Unlimited travel for one day with weekday time restrictions from Norwich through the Norfolk Broads to the coastal resorts of Lowestoft and Great Yarmouth in Norfolk.",
-  "fares_and_restrictions": {
-    "raw": "fares & restrictions New fares from 2nd Mar 2025 One day ranger adult: \u00a313.50 child (5-15): \u00a36.75 family*: \u00a327.00 senior#: \u00a39.00 railcards \u2bc6 16 26 SE DI 2T FF H V : \u00a39.00 DI FF H child fare: \u00a32.00 Railcards \u2bc8 Railcards: 16 = 16-25 26 = 26-30 SE = Senior DI = Disabled 2T = Two Together FF = Family & Friends H = HM Forces V = Veterans *Family tickets are for up to two adults and up to two children #Senior tickets apply to anyone over the age of 60 and accompanied children travel for \u00a32.00 Previous fares \u2bc8 Previous fares (adult): 2024 - \u00a312.90 2023 - \u00a312.00 2022 - \u00a311.50 2021 - \u00a311.50 2020 - \u00a311.50 2019 - \u00a311.00 2018 - \u00a39.00 2014 - \u00a39.00 2011 - \u00a37.80 time restrictions Mon to Fri: valid from 08:45 No restrictions at weekends or bank holidays Also valid on the 08:36 Norwich-Gt Yarmouth train operating companies Greater Anglia purchasing Online: X Train conductor: \u2714 * Station ticket office: \u2714 Ticket Vending Machine: i Northern Ticket Vending Machines now sell most ranger and rover tickets but at the moment only for same-day travel (rather prohibitive for distant areas) Some Avanti West Coast station TVMs for example Crewe, now sell local rangers and rovers. LNER TVMs at Doncaster, Edinburgh, London King's Cross, Newcastle and York also sell them. A number of PTE areas sell local rangers from TVMs in their area e.g. South Yorkshire, Strathclyde and West Midlands * valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  "fares_1_day": {
+    "valid_from": "Last Updated: Sunday 2nd March 2025",
+    "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
+    "travelclass": "Standard",
+    "adult": "£13.50",
+    "child": "£6.75",
+    "family": "£27.00 (up to two adults and up to two children)",
+    "senior": "£9.00 (anyone over the age of 60 and accompanied children travel for £2.00)",
+    "railcards": [
+      { "type": "16-25 Railcard", "price": "£9.00" },
+      { "type": "26-30 Railcard", "price": "£9.00" },
+      { "type": "Senior Railcard", "price": "£9.00" },
+      { "type": "Disabled Persons Railcard", "price": "£9.00" },
+      { "type": "Disabled Persons Child Railcard", "price": "£2.00" },
+      { "type": "Two Together Railcard", "price": "£9.00" },
+      { "type": "Family & Friends Railcard", "price": "£9.00" },
+      { "type": "Family & Friends Child Railcard", "price": "£2.00" },
+      { "type": "HM Forces Railcard", "price": "£9.00" },
+      { "type": "Veterans Railcard", "price": "£9.00" }
+    ]
   },
+  "previous_fares_1_day": [
+    { "year": 2024, "adult": "£12.90" },
+    { "year": 2023, "adult": "£12.00" },
+    { "year": 2022, "adult": "£11.50" },
+    { "year": 2021, "adult": "£11.50" },
+    { "year": 2020, "adult": "£11.50" },
+    { "year": 2019, "adult": "£11.00" },
+    { "year": 2018, "adult": "£9.00" },
+    { "year": 2014, "adult": "£9.00" },
+    { "year": 2011, "adult": "£7.80" }
+  ],
+  "time_restrictions": "Mon to Fri: valid from 08:45. No restrictions at weekends or bank holidays. Also valid on the 08:36 Norwich-Gt Yarmouth train.",
+  "route_restrictions": "No specific route restrictions mentioned",
+  "train_operators_valid_on": [
+    "Greater Anglia"
+  ],
+  "where_to_buy": [
+    "Online: Not available",
+    "Train conductor: Available",
+    "Station ticket office: Available",
+    "Ticket Vending Machine (TVM): Some Northern, Avanti West Coast, and LNER TVMs sell these tickets (see notes)",
+    "Valid ticket to travel is required unless boarded at a station without ticket-issuing facilities"
+  ],
   "stations": [
-    "Acle Berney Arms",
+    "Acle",
+    "Berney Arms",
     "Brundall",
     "Brundall Gardens",
-    "Buckenham Cantley Great Yarmouth Haddiscoe Lingwood",
-    "Lowestoft Norwich Oulton Broad North Reedham Somerleyton"
+    "Buckenham",
+    "Cantley",
+    "Great Yarmouth",
+    "Haddiscoe",
+    "Lingwood",
+    "Lowestoft",
+    "Norwich",
+    "Oulton Broad North",
+    "Reedham",
+    "Somerleyton"
   ],
   "route_map_images": [
     "ticket_maps/Wherry_Line_Ranger_Norwich-Gt_YarmouthLowestoft_wherry_line_ranger.gif"
