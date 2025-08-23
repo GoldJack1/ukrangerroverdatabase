@@ -12,9 +12,7 @@
     "total_duration": 1,
     "travelclass": "Standard",
     "adult": "£6.80",
-    "child_under_22": "£3.00",
     "family": "£18.80",
-    "railcards": []
   },
   "previous_fares_1_day": [
     { "year": 2024, "adult": "£6.00", "child": "", "Family & Friends Child Railcard": "", "16-17 Railcard": "", "16-25 Railcard": "", "26-30 Railcard": "", "Senior Railcard": "", "Disabled Persons Railcard": "", "Two Together Railcard": "", "HM Forces/Veterans Railcard": "", "Family & Friends Railcard": "" },

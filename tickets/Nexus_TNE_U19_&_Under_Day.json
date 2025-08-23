@@ -1,0 +1,40 @@
+{
+  "name": "Nexus_TNE_U19_&_Under_Day.json)",
+  "url": "",
+  "RRT": "Travelcard",
+  "Region": ["Tyne and Wear"],
+  "Country": ["England"],
+  "description": "The Nexus TNE U19 & Under Day Travelcard offers for just £3 all day, young people aged 21 or under can travel on: buses in Tyne and Wear, Northumberland and County Durham, All Zones (A+B+C) of the Tyne and Wear Metro, The Shields Ferry between North and South Sheilds and NORTHERN train services from Blaydon to Sunderland via Newcastle Station. (Not Valid on NORTHERN trains north of Newcastle towards Ashington via Manors",
+  "fares_1_day": {
+    "valid_from": "Last Updated: Friday 22nd August 2025",
+    "duration": "1 Day",
+    "multi_days_valid": 1,
+    "total_duration": 1,
+    "travelclass": "Standard",
+    "child_&_21_and_under": "£3.00"
+  },
+  "time_restrictions": "Valid anytime.",
+  "route_restrictions": "Unlimited rail travel and most bus services in Bristol, Bath, North Somerset, North East Somerset and South Gloucestershire. The ticket is based on four zones radiating out from Bristol and for rail it is bordered by Severn Beach, Pilning, Yate, Freshford and Weston-super-Mare with other locations served by bus. The ticket is also accepted on the following bus services: ABUS, Faresaver Buses*, First West of England*, South Gloucestershire Council (and supported services), Stagecoach Southwest* and Stagecoach West*. * tickets can be purchased from these operators. Day Freedom Travelpasses can be purchased from First West of England bus drivers. A Photocard is required for the monthly Travelpass. There are no child or railcard discounts.",
+  "train_operators_valid_on": [
+    "NORTHERN",
+    "Tyne and Wear Metro",
+    "Shields Ferry",
+    "Local Bus Services"
+  ],
+  "where_to_buy": [
+    "Online: Not available",
+    "Station ticket office (Nexus area): Available",
+    "Metro Ticket Machine: Available",
+    "Train conductor: Not available",
+    "Bus driver: Available",
+    "Apps: Available"
+  ],
+  "stations": [
+    "Blaydon",
+    "Dunston",
+    "Heworth",
+    "MetroCentre",
+    "Newcastle",
+    "Sunderland"
+  ]
+}
